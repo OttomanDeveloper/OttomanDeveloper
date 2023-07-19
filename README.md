@@ -7,7 +7,7 @@
 # 💫 About Me:
 😄 Pronouns: He/His<br>👯 I’m looking to collaborate on Youtube.<br>🌱 I’m currently learning Node.Js<br>💬 Ask me about Flutter or any tech-related stuff.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I spend almost 10 hours on Flutter daily.
 
-# 🔌Package & plugins I've developed for Flutter:
+## 🔌Package & plugins I've developed for Flutter:
 - 🔢 [firebase_admin_sdk](https://pub.dev/packages/firebase_admin_sdk): Flutter plugin to manage your firebase admin sdk.
 - 🖨 [firebase_cloud_messaging_flutter](https://pub.dev/packages/firebase_cloud_messaging_flutter): Flutter plugin for Firebase cloud messaging to send notification directly from your flutter or dark application.
 
