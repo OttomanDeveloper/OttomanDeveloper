@@ -1,6 +1,7 @@
 # 💫 About Me:
 😄 Pronouns: He/His<br>👯 I’m looking to collaborate on Youtube.<br>🌱 I’m currently learning Node.Js<br>💬 Ask me about Flutter or any tech-related stuff.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I spend almost 10 hours on flutter daily.
 
+![Portfolio](https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/usman_portfolio.jpg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sweetusman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ottoman_coder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-usman-848305164) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15117215) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ottomancoder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/OttomanCoder) 
