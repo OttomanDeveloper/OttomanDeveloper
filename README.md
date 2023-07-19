@@ -12,7 +12,7 @@
 - 🖨 [firebase_cloud_messaging_flutter](https://pub.dev/packages/firebase_cloud_messaging_flutter): Flutter plugin for Firebase cloud messaging to send notification directly from your flutter or dark application.
 
 ## 🚀 Some of the prominent apps from my portfolio:
-- 🏦 [YouShopper]([https://cib.az](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform)): multi-vendor e-commerce platform.
+- 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform): multi-vendor e-commerce platform.
 - 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller): multi-vendor e-commerce platform seller application.
 - 📦 [Homy هومي](https://vadi.az): home services provider for saudia KSA.
 
