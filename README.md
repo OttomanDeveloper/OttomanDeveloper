@@ -1,3 +1,7 @@
+👋 Hi there! I'm Muhammad Usman, a Senior Flutter Developer with over 3 years of experience. I've participated in development of more than 50 mobile applications, along with several plugins and packages for Flutter.
+
+🌱 I'm currently working on several open-source packages and my indie mobile app ideas *por el arte* (for the art of it).
+
 # 💫 About Me:
 😄 Pronouns: He/His<br>👯 I’m looking to collaborate on Youtube.<br>🌱 I’m currently learning Node.Js<br>💬 Ask me about Flutter or any tech-related stuff.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I spend almost 10 hours on flutter daily.
 
