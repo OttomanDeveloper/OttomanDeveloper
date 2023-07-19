@@ -20,8 +20,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OttomanDeveloper&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+📫 Reach me via ottomandeveloper@gmail.com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OttomanDeveloper&icon=0&color=9)](https://visitcount.itsvg.in)
