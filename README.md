@@ -46,10 +46,10 @@
       
 ## Contributions
 
-- Developed a Social Grouper application enabling users to join social media groups and efficiently find information about scammers.
-- Implemented features that allow users to add their social groups and report scammer information if they encounter any fraudulent activity.
-- Created a theme switcher in Flutter, empowering users to seamlessly switch between light and dark themes to enhance the app's overall user experience.
-- Revamped the design of the application using Flutter Animation and custom dynamic styling components, resulting in a visually appealing and user-friendly interface that promotes easy interaction.
+- Developed Social Grouper app for joining social media groups and detecting scammers.
+- Implemented user-friendly features for adding social groups and reporting scammers.
+- Designed a versatile theme switcher in Flutter for seamless light and dark mode selection.
+- Enhanced app's UI/UX through intuitive animations and custom styling components.
 
     </td>
     <td valign="top" width="50%">
