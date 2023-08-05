@@ -6,9 +6,9 @@
 
 ## Connor Hammond
 
-<p align="center">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_profile.jpg" width="250" style="border-radius: 40px;">
-</p>
+<div align="center" style="border-radius: 40px; overflow: hidden;">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_profile.jpg" width="250">
+</div>
 
   <table>
   <tr>
