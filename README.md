@@ -29,6 +29,46 @@
 
 ![Portfolio](https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_portfolio.jpg)
 
+## Projects
+
+### Social Grouper & Scam Finder
+
+<p float="left">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_1.png" width="200">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_2.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_3.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_4.png" width="200" />
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## Contributions
+
+- Developed a Social Grouper application enabling users to join social media groups and efficiently find information about scammers.
+- Implemented features that allow users to add their social groups and report scammer information if they encounter any fraudulent activity.
+- Created a theme switcher in Flutter, empowering users to seamlessly switch between light and dark themes to enhance the app's overall user experience.
+- Revamped the design of the application using Flutter Animation and custom dynamic styling components, resulting in a visually appealing and user-friendly interface that promotes easy interaction.
+
+    </td>
+    <td valign="top" width="50%">
+
+## Technologies Used
+
+- React Native
+- React Native Animation
+- MVVM
+- Custom dynamic styling
+- Custom threads feature
+
+      </td>
+
+    </tr>
+  </table>
+
+In collaboration with 808 Partners
+
 ## 🔌Package & plugins I've developed for Flutter:
 
 - 🔢 [firebase_admin_sdk](https://pub.dev/packages/firebase_admin_sdk): Flutter plugin to manage your firebase admin sdk.
