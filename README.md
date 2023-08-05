@@ -162,6 +162,46 @@ WhatsApp: https://wa.me/message/4DIU6JPIALUGK1
 
 # More Projects
 
+### ICare - Meditation & Inner Calm
+
+<p float="left">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_1.png" width="200">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_2.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_3.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_4.png" width="200" />
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## Contributions
+
+- Developed Icare, a mediation and inner calm app using Flutter, which enables users to track their mood on a daily basis.
+- Implemented various features, including breathing sessions with guided voice instructions and background music, multiple meditation music options, and the ability to add custom music.
+- Integrated Firebase Firestore, Auth, Storage, and Cloud Functions for secure data storage and user authentication.
+- Utilized Firebase Admin SDK to enable data deletion for user management.
+- Implemented a fingerprint authentication feature to enhance app security.
+- Created a social community to connect users with others and encourage interaction.
+- Incorporated a to-do manager, diary, and voice memo functionalities to provide users with a comprehensive experience.
+- Designed the app with a simple and catchy interface to ensure a pleasant user experience.
+
+    </td>
+    <td valign="top" width="50%">
+
+## Technologies Used
+
+- Flutter, Dart
+- MVVM
+- GetX, Isolates
+- Firebase, Firestore, Auth, Storage and Cloud Functions.
+- Flutter Animations
+- Firebase Messaging
+- Node.Js for Cloud Functions
+
+    </tr>
+  </table>
+
 ### Bill Checker - Pakistan
 
 <p float="left">
