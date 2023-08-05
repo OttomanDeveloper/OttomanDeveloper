@@ -140,6 +140,20 @@
     </tr>
   </table>
 
+# Experience
+
+Most recently, I served as a Mobile Software Engineer (Flutter Specialist) at SD Cold Logistics & YouShopper, Inc. There, I led the redesign of the YouShopper applications, developed comprehensive applications for customers, sellers, and delivery personnel. Additionally, I spearheaded the development of the LBH beauty products application and provided assistance in the backend migration for the Seller app.
+
+Prior to that, I gained valuable experience as a Flutter Developer at HomyKSA. During my tenure, I developed a complete home services app offering various services like cleaning, plumbing, and AC services. I collaborated closely with the backend team to seamlessly integrate APIs and ensure a smooth order flow.
+
+With a diverse skill set and a track record of success, I am well-suited for any Flutter development position. I am eager to apply my expertise to contribute to innovative and exciting projects.
+
+# Education
+
+I dropped out from Government College University, Faisalabad in 2021.
+
+# More Projects
+
 ### Bill Checker - Pakistan
 
 <p float="left">
