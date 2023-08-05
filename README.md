@@ -4,7 +4,7 @@
 
 # Mobile App Developer Showcase
 
-## Connor Hammond
+## Muhammad Usman
 
 <div align="center" style="border-radius: 40px; overflow: hidden;">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_profile.jpg" width="250">
@@ -16,17 +16,17 @@
       
 ## About Me
 
-- A seasoned iOS Developer with expertise in Swift, React Native, and SwiftUI, I am located in Orem, UT and prefer remote or hybrid work environments. I specialize in creating intuitive user interfaces and efficient backend solutions that improve user interaction and enhance overall application performance. With hands-on experience in utilizing industry-leading tools and software like Figma, Postman, and React Native Debugger, I am well-equipped to handle the demands of modern iOS application development.
+- Hey there! I'm a skilled Flutter Developer with more than 4 years of experience. My expertise lies in Flutter, Dart, and PHP. Throughout my journey, I've actively contributed to the development of over 40 mobile applications, as well as creating numerous plugins and packages for Flutter. My focus is on crafting seamless user interfaces and optimizing backend solutions to enhance user interactions and overall application performance. With practical experience in using top-notch tools and software like Figma and Postman, I am well-prepared to take on the challenges of modern Flutter application development.
 
     </td>
     <td valign="top" width="50%">
 
 ## Skills
 
-- Languages: Swift, React Native, Objective-C
-- Frameworks & Libraries: SwiftUI, UIKit
-- Database & Industry Tools: Firebase, CloudKit, Core Data
-- Tools & Software: Figma, Postman, React Native Debugger, Git, Bitbucket
+- Languages: Dart, Kotlin, PHP
+- Frameworks & Libraries: Flutter
+- Database & Industry Tools: Firebase, RESTful API's, Hive, iSar, SQLite
+- Tools & Software: Figma, Adobe XD, Postman, Git, Bitbucket
 
       </td>
 
