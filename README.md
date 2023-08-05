@@ -66,8 +66,6 @@
     </tr>
   </table>
 
-In collaboration with 808 Partners
-
 ## 🔌Package & plugins I've developed for Flutter:
 
 - 🔢 [firebase_admin_sdk](https://pub.dev/packages/firebase_admin_sdk): Flutter plugin to manage your firebase admin sdk.
