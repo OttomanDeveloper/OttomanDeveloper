@@ -16,7 +16,7 @@
       
 ## About Me
 
-- Hey there! I'm a skilled Flutter Developer with more than 4 years of experience. My expertise lies in Flutter, Dart, and PHP. Throughout my journey, I've actively contributed to the development of over 40 mobile applications, as well as creating numerous plugins and packages for Flutter. My focus is on crafting seamless user interfaces and optimizing backend solutions to enhance user interactions and overall application performance. With practical experience in using top-notch tools and software like Figma and Postman, I am well-prepared to take on the challenges of modern Flutter application development.
+- Hey there! I'm a skilled Flutter Developer with expertise in Dart, PHP, and Flutter. I've actively contributed to the development of over 40 mobile applications and created numerous plugins and packages for Flutter. My focus is on crafting seamless user interfaces and optimizing backend solutions to enhance user interactions and overall application performance. Proficient in using top-notch tools like Figma and Postman, I am well-prepared to take on the challenges of modern Flutter application development.
 
     </td>
     <td valign="top" width="50%">
