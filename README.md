@@ -27,9 +27,7 @@
     </tr>
   </table>
 
-![Portfolio](https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_portfolio.jpg)
-
-## Projects
+# Projects
 
 ### UDownload - Youtube Player
 
