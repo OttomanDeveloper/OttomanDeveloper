@@ -152,6 +152,14 @@ With a diverse skill set and a track record of success, I am well-suited for any
 
 I dropped out from Government College University, Faisalabad in 2021.
 
+# Contact Information
+
+- Email: ottomandeveloper@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/ottomancoder/
+
+- WhatsApp: https://wa.me/message/4DIU6JPIALUGK1
+
 # More Projects
 
 ### Bill Checker - Pakistan
@@ -213,9 +221,5 @@ I dropped out from Government College University, Faisalabad in 2021.
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=OttomanDeveloper&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-📫 Reach me via ottomandeveloper@gmail.com
-
----
 
 [![](https://visitcount.itsvg.in/api?id=OttomanDeveloper&icon=0&color=9)](https://visitcount.itsvg.in)
