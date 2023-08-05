@@ -66,6 +66,39 @@
     </tr>
   </table>
 
+### Bill Checker - Pakistan
+
+<p float="left">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_1.png" width="200">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_2.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_3.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_4.png" width="200" />
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## Contributions
+
+- Engineered "Bill Checker," a user-friendly Flutter app for effortlessly verifying electricity, water, gas, and telephone bills with a simple click.
+- Designed a captivating and intuitive UI, featuring a versatile theme switcher for Light and Dark modes, providing an enhanced user experience.
+
+    </td>
+    <td valign="top" width="50%">
+
+## Technologies Used
+
+- Flutter, Dart
+- Flutter Animation
+- MVVM
+- Custom dynamic styling
+- Flutter Bloc, Isolates
+- Firebase, Admob Ads and Applovin Max
+
+    </tr>
+  </table>
+
 ## 🔌Package & plugins I've developed for Flutter:
 
 - 🔢 [firebase_admin_sdk](https://pub.dev/packages/firebase_admin_sdk): Flutter plugin to manage your firebase admin sdk.
