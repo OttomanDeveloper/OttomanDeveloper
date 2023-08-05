@@ -28,9 +28,6 @@
 - Database & Industry Tools: Firebase, RESTful API's, Hive, iSar, SQLite
 - Tools & Software: Figma, Adobe XD, Postman, Git, Bitbucket
 
-      </td>
-
-    <td valign="top" width="50%">
     </tr>
   </table>
 
