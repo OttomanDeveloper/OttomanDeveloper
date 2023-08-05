@@ -31,6 +31,43 @@
 
 ## Projects
 
+### UDownload - Youtube Player
+
+<p float="left">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_1.png" width="200">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_2.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_3.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_4.png" width="200" />
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## Contributions
+
+- Developed a feature-rich Youtube Video Player and Downloader application, utilizing NewPie-Extractor, Dart Explode, and other 3 APIs to provide a seamless video downloading experience in MP3 and MP4 formats with various qualities.
+- Implemented the sharing functionality for downloaded videos, enabling users to easily share their favorite content with others.
+- Integrated OneSignal Notifications, Flutter Bloc, and Cubit to enhance the communication and notification capabilities of the application.
+- Crafted an appealing and user-friendly design with both Light and Dark themes, ensuring a delightful user experience across different preferences.
+- Optimized the user interface with a simple and catchy design, making navigation and interaction intuitive and enjoyable for users.
+
+    </td>
+    <td valign="top" width="50%">
+
+## Technologies Used
+
+- Flutter, Dart
+- Flutter Animation
+- MVVM
+- Dark and Light Theme
+- Custom dynamic styling
+- Flutter Bloc, Isolates, OneSignal
+- PHP Api, Admob Ads, Applovin Max
+
+    </tr>
+  </table>
+
 ### Social Grouper & Scam Finder
 
 <p float="left">
