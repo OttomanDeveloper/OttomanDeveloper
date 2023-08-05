@@ -202,6 +202,38 @@ WhatsApp: https://wa.me/message/4DIU6JPIALUGK1
     </tr>
   </table>
 
+### CourierGo - Multi-Vendor Delivery App
+
+<p float="left">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_1.png" width="200">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_2.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_3.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_4.png" width="200" />
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## Contributions
+
+- Developed a Courier App with OpenCart API integration for vendors to manage stock orders across multiple countries.
+- Implemented user-friendly features like advanced search with filters and easy parcel management.
+
+    </td>
+    <td valign="top" width="50%">
+
+## Technologies Used
+
+- Flutter, Dart
+- MVVM
+- Flutter GetX, Isolates
+- Firebase Messaging
+- OpenCart API
+
+    </tr>
+  </table>
+
 ### Bill Checker - Pakistan
 
 <p float="left">
