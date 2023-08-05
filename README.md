@@ -68,6 +68,45 @@
     </tr>
   </table>
 
+### YT Master - Youtube Services Market
+
+<p float="left">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_1.png" width="200">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_2.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_3.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_4.png" width="200" />
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## Contributions
+
+- Developed YT Master, a YouTube services app, using Flutter to enable users to buy and sell YouTube channels, purchase watch time, subscribers, and views, and create campaigns to boost channel or video views.
+- Implemented a state management system using Flutter's state management solutions to efficiently manage and update the app's data and UI.
+- Utilized OneSignal Notifications to provide users with timely updates and notifications about their campaigns and app activities.
+- Integrated a coin-based system for purchases and rewards, allowing users to buy coins and earn free coins by inviting friends to the app.
+- Engineered a seamless and dynamic theme switcher in YT Master, offering users the choice to switch between dark and light modes, improving the app's user experience and visual appeal.
+- Led a comprehensive app redesign, leveraging Flutter Animation and custom dynamic styling components to create an intuitive and engaging design, resulting in enhanced user interactions and an overall improved user experience.
+
+    </td>
+    <td valign="top" width="50%">
+
+## Technologies Used
+
+- Flutter, Dart
+- Flutter Animation
+- MVVM
+- OneSignal Notifications
+- Custom dynamic styling
+- Flutter Provider, Isolates
+- Firebase, Admob Ads
+- Youtube API's V3
+
+    </tr>
+  </table>
+
 ### Social Grouper & Scam Finder
 
 <p float="left">
