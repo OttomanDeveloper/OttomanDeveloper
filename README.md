@@ -1,10 +1,6 @@
-👋 Hi there! I'm Muhammad Usman, a Senior Flutter Developer with over 4 years of experience. I've participated in development of more than 70 mobile applications, along with several plugins and packages for Flutter.
-
-🌱 I'm currently working on several open-source packages and apps.
-
 # Mobile App Developer Showcase
 
-## Muhammad Usman
+### Muhammad Usman
 
 <div align="center" style="border-radius: 40px; overflow: hidden;">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_profile.jpg" width="250">
