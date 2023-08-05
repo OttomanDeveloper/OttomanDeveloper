@@ -56,11 +56,11 @@
 
 ## Technologies Used
 
-- React Native
-- React Native Animation
+- Flutter, Dart
+- Flutter Animation
 - MVVM
 - Custom dynamic styling
-- Custom threads feature
+- Firebase, Admob Ads and Applovin Max
 
       </td>
 
