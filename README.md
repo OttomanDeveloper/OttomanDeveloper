@@ -90,9 +90,7 @@
 ## Technologies Used
 
 - Flutter, Dart
-- Flutter Animation
 - MVVM
-- Custom dynamic styling
 - Flutter Bloc, Isolates
 - Firebase, Admob Ads and Applovin Max
 
