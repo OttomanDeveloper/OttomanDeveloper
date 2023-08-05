@@ -2,6 +2,37 @@
 
 🌱 I'm currently working on several open-source packages and apps.
 
+# Mobile App Developer Showcase
+
+## Connor Hammond
+
+<p align="center">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_profile.jpg" width="250" style="border-radius:50%;">
+</p>
+
+  <table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## About Me
+
+- A seasoned iOS Developer with expertise in Swift, React Native, and SwiftUI, I am located in Orem, UT and prefer remote or hybrid work environments. I specialize in creating intuitive user interfaces and efficient backend solutions that improve user interaction and enhance overall application performance. With hands-on experience in utilizing industry-leading tools and software like Figma, Postman, and React Native Debugger, I am well-equipped to handle the demands of modern iOS application development.
+
+    </td>
+    <td valign="top" width="50%">
+
+## Skills
+
+- Languages: Swift, React Native, Objective-C
+- Frameworks & Libraries: SwiftUI, UIKit
+- Database & Industry Tools: Firebase, CloudKit, Core Data
+- Tools & Software: Figma, Postman, React Native Debugger, Git, Bitbucket
+
+      </td>
+
+    </tr>
+  </table>
+
 ![Portfolio](https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_portfolio.jpg)
 
 ## 🔌Package & plugins I've developed for Flutter:
@@ -25,9 +56,9 @@
 
 # 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OttomanDeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=OttomanDeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=OttomanDeveloper&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OttomanDeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=OttomanDeveloper&theme=vue-dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
