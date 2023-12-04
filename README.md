@@ -259,9 +259,12 @@ I dropped out from Government College University, Faisalabad in 2021.
 
 # Contact Information
 
-Email: ottomandeveloper@gmail.com
+Email: `ottomandeveloper@gmail.com`
+
 LinkedIn: https://www.linkedin.com/in/ottomancoder/
+
 WhatsApp: https://wa.me/message/4DIU6JPIALUGK1
+
 Youtube: https://www.youtube.com/@OttomanCoder
 
 # More Projects
