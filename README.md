@@ -255,7 +255,7 @@ With a diverse skill set and a track record of success, I am well-suited for any
 
 # Contact Information
 
-<div align="center">
+<div align="start">
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <a href="mailto:ottomandeveloper@gmail.com">
