@@ -253,19 +253,53 @@ Prior to that, I gained valuable experience as a Flutter Developer at HomyKSA. D
 
 With a diverse skill set and a track record of success, I am well-suited for any Flutter development position. I am eager to apply my expertise to contribute to innovative and exciting projects.
 
-# Education
-
-I dropped out from Government College University, Faisalabad in 2021.
-
 # Contact Information
 
-Email: `ottomandeveloper@gmail.com`
+<div align="center">
 
-LinkedIn: https://www.linkedin.com/in/ottomancoder/
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="mailto:ottomandeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email icon" />
+    <span style="margin-left: 10px;">ottomandeveloper@gmail.com</span>
+  </a>
+</div>
 
-WhatsApp: https://wa.me/message/4DIU6JPIALUGK1
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://www.linkedin.com/in/ottomancoder/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn icon" />
+    <span style="margin-left: 10px;">https://www.linkedin.com/in/ottomancoder/</span>
+  </a>
+</div>
 
-Youtube: https://www.youtube.com/@OttomanCoder
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://wa.me/message/4DIU6JPIALUGK1" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp icon" />
+    <span style="margin-left: 10px;">https://wa.me/message/4DIU6JPIALUGK1</span>
+  </a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://stackoverflow.com/users/15117215" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow icon" />
+    <span style="margin-left: 10px;">https://stackoverflow.com/users/15117215</span>
+  </a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://www.youtube.com/@OttomanCoder" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube icon" />
+    <span style="margin-left: 10px;">https://www.youtube.com/@OttomanCoder</span>
+  </a>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <a href="https://instagram.com/ottoman_coder" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram icon" />
+    <span style="margin-left: 10px;">https://instagram.com/ottoman_coder</span>
+  </a>
+</div>
+
+</div>
 
 # More Projects
 
@@ -429,10 +463,6 @@ Youtube: https://www.youtube.com/@OttomanCoder
 - 🚗 [CanMove Driver](https://play.google.com/store/apps/details?id=com.canmovellc.canmovedriver): Delivery Services App for Driver's.
 - 🫂 [Group Joiner](https://play.google.com/store/apps/details?id=com.wagroupss.joiner): Social Media (WhatsApp) Groups Joining App.
 - 💸 [All Bill Checker](https://play.google.com/store/apps/details?id=com.allbillchecker.pk): Check Water, Electricity, Gas Bills.
-
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sweetusman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ottoman_coder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-usman-848305164) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15117215) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ottomancoder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/OttomanCoder)
 
 ## 💻 Tech Stack:
 
