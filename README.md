@@ -260,10 +260,9 @@ I dropped out from Government College University, Faisalabad in 2021.
 # Contact Information
 
 Email: ottomandeveloper@gmail.com
-
 LinkedIn: https://www.linkedin.com/in/ottomancoder/
-
 WhatsApp: https://wa.me/message/4DIU6JPIALUGK1
+Youtube: https://www.youtube.com/@OttomanCoder
 
 # More Projects
 
@@ -420,9 +419,13 @@ WhatsApp: https://wa.me/message/4DIU6JPIALUGK1
 
 ## 🚀 Some of the prominent apps from my portfolio:
 
-- 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform): multi-vendor e-commerce platform.
-- 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller): multi-vendor e-commerce platform seller application.
-- 📦 [Homy هومي](https://vadi.az): home services provider for saudia KSA.
+- 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform): Multi-vendor e-commerce platform.
+- 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller): Multi-vendor e-commerce platform seller application.
+- 📦 [Homy هومي](https://play.google.com/store/apps/details?id=homy.homyksaapp.Homyapp): home services provider for saudia KSA.
+- 🚗 [CanMove](https://play.google.com/store/apps/details?id=com.canmovellc.canmove): Delivery Services App for Customer's.
+- 🚗 [CanMove Driver](https://play.google.com/store/apps/details?id=com.canmovellc.canmovedriver): Delivery Services App for Driver's.
+- 🫂 [Group Joiner](https://play.google.com/store/apps/details?id=com.wagroupss.joiner): Social Media (WhatsApp) Groups Joining App.
+- 💸 [All Bill Checker](https://play.google.com/store/apps/details?id=com.allbillchecker.pk): Check Water, Electricity, Gas Bills.
 
 ## 🌐 Socials:
 
