@@ -1,33 +1,35 @@
-# 🚀 Mobile App Developer Showcase
+# Mobile App Developer Showcase
 
-## Muhammad Usman
+### Muhammad Usman
 
 <p align="center">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_profile.jpg" width="250" style="border-radius: 40px;">
 </p>
 
-<div align="center">
-
+  <table>
+  <tr>
+    <td valign="top" width="50%">
+      
 ## About Me
 
-Hey there! I'm a skilled Mobile App Developer with expertise in Dart, PHP, and Flutter. My focus is on crafting seamless user interfaces and optimizing backend solutions to enhance user interactions and overall application performance. Proficient in using top-notch tools like Figma and Postman, I am well-prepared to take on the challenges of modern Flutter application development.
+- Hey there! I'm a skilled Mobile App Developer with expertise in Dart, PHP, and Flutter. My focus is on crafting seamless user interfaces and optimizing backend solutions to enhance user interactions and overall application performance. Proficient in using top-notch tools like Figma and Postman, I am well-prepared to take on the challenges of modern Flutter application development.
 
-</div>
-
-<div align="center">
+    </td>
+    <td valign="top" width="50%">
 
 ## Skills
 
-Languages: Dart, Kotlin, PHP
-Frameworks & Libraries: Flutter
-Database & Industry Tools: Firebase, RESTful API's, Hive, iSar, SQLite
-Tools & Software: Figma, Adobe XD, Postman, Git, Bitbucket
+- Languages: Dart, Kotlin, PHP
+- Frameworks & Libraries: Flutter
+- Database & Industry Tools: Firebase, RESTful API's, Hive, iSar, SQLite
+- Tools & Software: Figma, Adobe XD, Postman, Git, Bitbucket
 
-</div>
+    </tr>
+  </table>
 
-# 🌟 Projects
+# Projects
 
-## UDownload - Youtube Player
+### UDownload - Youtube Player
 
 <p float="left">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_1.png" width="200">
@@ -36,32 +38,49 @@ Tools & Software: Figma, Adobe XD, Postman, Git, Bitbucket
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_4.png" width="200" />
 </p>
 
-<div align="center">
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
 ## Contributions
 
-- Developed a feature-rich Youtube Video Player and Downloader application.
-- Implemented a seamless video downloading experience in MP3 and MP4 formats with various qualities.
-- Integrated OneSignal Notifications, Flutter Bloc, and Cubit for enhanced communication and notification capabilities.
-- Crafted an appealing and user-friendly design with both Light and Dark themes.
+1. **Youtube Video Player and Downloader:**
 
-</div>
+   - Developed a robust application using NewPie-Extractor, Dart Explode, and three other APIs for seamless video downloading in MP3 and MP4 formats with varied qualities.
 
-<div align="center">
+2. **Sharing Functionality:**
+
+   - Implemented a user-friendly sharing feature for downloaded videos, facilitating easy sharing of favorite content with others.
+
+3. **Enhanced Communication and Notifications:**
+
+   - Integrated OneSignal Notifications, Flutter Bloc, and Cubit to elevate communication and notification capabilities within the application.
+
+4. **Appealing Design with Light and Dark Themes:**
+
+   - Crafted an aesthetically pleasing design that accommodates both Light and Dark themes, ensuring an enjoyable user experience catering to diverse preferences.
+
+5. **Optimized User Interface:**
+
+   - Optimized the user interface with a simple and catchy design, ensuring intuitive navigation and interaction, providing users with an enjoyable experience.
+
+    </td>
+    <td valign="top" width="50%">
 
 ## Technologies Used
 
-Flutter, Dart
-Flutter Animation
-MVVM
-Dark and Light Theme
-Custom dynamic styling
-Flutter Bloc, Isolates, OneSignal
-PHP Api, Admob Ads, Applovin Max
+- Flutter, Dart
+- Flutter Animation
+- MVVM
+- Dark and Light Theme
+- Custom dynamic styling
+- Flutter Bloc, Isolates, OneSignal
+- PHP Api, Admob Ads, Applovin Max
 
-</div>
+    </tr>
+  </table>
 
-## YT Master - Youtube Services Market
+### YT Master - Youtube Services Market
 
 <p float="left">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_1.png" width="200">
@@ -70,35 +89,62 @@ PHP Api, Admob Ads, Applovin Max
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_4.png" width="200" />
 </p>
 
-<div align="center">
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
 ## Contributions
 
-- Developed YT Master, a YouTube services app, using Flutter.
-- Enabled users to buy and sell YouTube channels, purchase watch time, subscribers, and views.
-- Created campaigns to boost channel or video views.
-- Integrated a state management system for efficient data and UI management.
-- Utilized OneSignal Notifications for timely updates and notifications.
-- Engineered a coin-based system for purchases and rewards.
+1. **Flutter Expertise:**
 
-</div>
+   - Developed YT Master using Flutter, showcasing proficiency in cross-platform app development.
 
-<div align="center">
+2. **Monetization Features:**
+
+   - Implemented a comprehensive system enabling users to buy/sell YouTube channels, purchase watch time, subscribers, and views.
+   - Introduced campaigns to boost channel/video views, adding a unique and powerful monetization aspect to the app.
+
+3. **State-of-the-Art State Management:**
+
+   - Employed Flutter's state management solutions for efficient data and UI management, ensuring a smooth and responsive user experience.
+
+4. **Engaging User Communication:**
+
+   - Integrated OneSignal Notifications to keep users informed about campaigns and app activities, enhancing user engagement.
+
+5. **Coin-Based System:**
+
+   - Engineered a coin-based system for purchases and rewards, providing a flexible and rewarding user experience.
+   - Users can buy coins and earn free coins by inviting friends, fostering user retention and app growth.
+
+6. **Dynamic Theme Switcher:**
+
+   - Developed a seamless theme switcher, allowing users to effortlessly switch between dark and light modes.
+   - Enhanced user experience and visual appeal, catering to diverse user preferences.
+
+7. **App Redesign and Animation:**
+
+   - Led a comprehensive app redesign, leveraging Flutter Animation and custom styling components.
+   - Resulted in an intuitive and engaging design, elevating user interactions and overall user experience.
+
+    </td>
+    <td valign="top" width="50%">
 
 ## Technologies Used
 
-Flutter, Dart
-Flutter Animation
-MVVM
-OneSignal Notifications
-Custom dynamic styling
-Flutter Provider, Isolates
-Firebase, Admob Ads
-Youtube API's V3
+- Flutter, Dart
+- Flutter Animation
+- MVVM
+- OneSignal Notifications
+- Custom dynamic styling
+- Flutter Provider, Isolates
+- Firebase, Admob Ads
+- Youtube API's V3
 
-</div>
+    </tr>
+  </table>
 
-## Social Grouper & Scam Finder
+### Social Grouper & Scam Finder
 
 <p float="left">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_1.png" width="200">
@@ -107,31 +153,99 @@ Youtube API's V3
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_4.png" width="200" />
 </p>
 
-<div align="center">
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
 ## Contributions
 
-- Developed Social Grouper app for joining social media groups and detecting scammers.
-- Implemented user-friendly features for adding social groups and reporting scammers.
-- Designed a versatile theme switcher in Flutter for seamless light and dark mode selection.
-- Enhanced app's UI/UX through intuitive animations and custom styling components.
+1. **Social Grouper App Development:**
 
-</div>
+   - Developed a Social Grouper app that facilitates users in joining social media groups and includes robust scammer detection features.
 
-<div align="center">
+2. **User-Friendly Features:**
+
+   - Implemented intuitive features for users to effortlessly add social groups.
+   - Integrated a reporting system for identifying and reporting potential scammers within the app.
+
+3. **Versatile Theme Switcher:**
+
+   - Designed and implemented a versatile theme switcher in Flutter.
+   - Enables users to seamlessly switch between light and dark modes for a personalized visual experience.
+
+4. **Enhanced UI/UX:**
+
+   - Elevated the app's UI/UX through the integration of intuitive animations.
+   - Customized styling components for a visually appealing and user-friendly interface.
+
+    </td>
+    <td valign="top" width="50%">
 
 ## Technologies Used
 
-Flutter, Dart
-Flutter Animation
-MVVM
-Custom dynamic styling
-Flutter Bloc, Isolates
-Firebase, Admob Ads and Applovin Max
+- Flutter, Dart
+- Flutter Animation
+- MVVM
+- Custom dynamic styling
+- Flutter Bloc, Isolates
+- Firebase, Admob Ads and Applovin Max
 
-</div>
+    </tr>
+  </table>
 
-# 👨‍💻 Experience
+### WhatsApp Status Saver & Video Downloader
+
+<p float="left">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_1.png" width="200">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_2.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_3.png" width="200" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_4.png" width="200" />
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## Contributions
+
+1. **Seamless Status Saving:**
+
+   - Effortlessly preserve both personal and business WhatsApp statuses.
+
+2. **Versatile Video Downloads:**
+
+   - Download videos conveniently from over 10 popular platforms.
+   - Supported platforms include YouTube, TikTok, Facebook, Instagram, and more.
+
+3. **Diverse Content Selection:**
+
+   - Access a wide array of video content for diverse preferences.
+   - Enjoy the flexibility of downloading content for offline viewing.
+
+4. **Enhanced User Experience:**
+
+   - Benefit from an improved user interface and interaction.
+   - Integration of Google Mobile Ads for additional features.
+
+5. **Non-intrusive Ad Experience:**
+
+   - Experience non-disruptive ads that enhance app functionality.
+   - Ads are designed to contribute to the app's features without compromising the user experience.
+
+    </td>
+    <td valign="top" width="50%">
+
+## Technologies Used
+
+- Flutter, Dart
+- MVVM
+- Flutter Bloc, Isolates
+- Firebase, Admob Ads
+
+    </tr>
+  </table>
+
+# Experience
 
 Most recently, I served as a Mobile Software Engineer (Flutter Specialist) at SD Cold Logistics & YouShopper, Inc. There, I led the redesign of the YouShopper applications, developed comprehensive applications for customers, sellers, and delivery personnel. Additionally, I spearheaded the development of the LBH beauty products application and provided assistance in the backend migration for the Seller app.
 
@@ -139,22 +253,21 @@ Prior to that, I gained valuable experience as a Flutter Developer at HomyKSA. D
 
 With a diverse skill set and a track record of success, I am well-suited for any Flutter development position. I am eager to apply my expertise to contribute to innovative and exciting projects.
 
-# 🎓 Education
+# Education
 
 I dropped out from Government College University, Faisalabad in 2021.
 
-# 📧 Contact Information
+# Contact Information
 
-- Email: ottomandeveloper@gmail.com
-- LinkedIn: [
+Email: ottomandeveloper@gmail.com
 
-Muhammad Usman](https://www.linkedin.com/in/ottomancoder/)
+LinkedIn: https://www.linkedin.com/in/ottomancoder/
 
-- WhatsApp: [Message Me](https://wa.me/message/4DIU6JPIALUGK1)
+WhatsApp: https://wa.me/message/4DIU6JPIALUGK1
 
-# 🌐 More Projects
+# More Projects
 
-## ICare - Meditation & Inner Calm
+### ICare - Meditation & Inner Calm
 
 <p float="left">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_1.png" width="200">
@@ -163,36 +276,60 @@ Muhammad Usman](https://www.linkedin.com/in/ottomancoder/)
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_4.png" width="200" />
 </p>
 
-<div align="center">
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
 ## Contributions
 
-- Developed Icare, a mediation and inner calm app using Flutter.
-- Enabled users to track their mood on a daily basis.
-- Implemented various features, including breathing sessions with guided voice instructions and background music.
-- Integrated Firebase Firestore, Auth, Storage, and Cloud Functions for secure data storage and user authentication.
-- Utilized Firebase Admin SDK to enable data deletion for user management.
-- Incorporated a fingerprint authentication feature to enhance app security.
-- Created a social community to connect users with others and encourage interaction.
-- Designed the app with a simple and catchy interface to ensure a pleasant user experience.
+1. **App Development: Icare - A Meditation and Inner Calm App**
 
-</div>
+   - Developed Icare, a meditation and inner calm app using Flutter.
+   - Implemented features for mood tracking, allowing users to monitor their daily emotional well-being.
 
-<div align="center">
+2. **Meditation Features:**
+
+   - Created breathing sessions with guided voice instructions and background music.
+   - Provided users with multiple meditation music options and the flexibility to add custom music.
+
+3. **Firebase Integration:**
+
+   - Integrated Firebase Firestore, Auth, Storage, and Cloud Functions for secure data storage and user authentication.
+   - Utilized Firebase Admin SDK for efficient data deletion and user management.
+
+4. **Security Enhancements:**
+
+   - Implemented a fingerprint authentication feature to enhance app security.
+
+5. **Community Building:**
+
+   - Established a social community within the app to connect users and encourage interaction.
+
+6. **Comprehensive User Experience:**
+
+   - Incorporated a to-do manager, diary, and voice memo functionalities to provide users with a comprehensive experience.
+
+7. **User-Friendly Design:**
+
+   - Designed the app with a simple and catchy interface to ensure a pleasant and intuitive user experience.
+
+    </td>
+    <td valign="top" width="50%">
 
 ## Technologies Used
 
-Flutter, Dart
-MVVM
-GetX, Isolates
-Firebase, Firestore, Auth, Storage and Cloud Functions.
-Flutter Animations
-Firebase Messaging
-Node.Js for Cloud Functions
+- Flutter, Dart
+- MVVM
+- GetX, Isolates
+- Firebase, Firestore, Auth, Storage and Cloud Functions.
+- Flutter Animations
+- Firebase Messaging
+- Node.Js for Cloud Functions
 
-</div>
+    </tr>
+  </table>
 
-## CourierGo - Multi-Vendor Delivery App
+### CourierGo - Multi-Vendor Delivery App
 
 <p float="left">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_1.png" width="200">
@@ -201,28 +338,39 @@ Node.Js for Cloud Functions
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_4.png" width="200" />
 </p>
 
-<div align="center">
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
 ## Contributions
 
-- Developed a Courier App with OpenCart API integration for vendors to manage stock orders across multiple countries.
-- Implemented user-friendly features like advanced search with filters and easy parcel management.
+1. **Revolutionizing Courier Services:**
 
-</div>
+   - Successfully developed a Courier App integrated with OpenCart API, empowering vendors to efficiently manage stock orders spanning multiple countries.
 
-<div align="center">
+2. **Enhanced User Experience:**
+
+   - Implemented user-friendly features, including an advanced search with filters, to provide a seamless and efficient parcel management experience.
+
+3. **Global Stock Order Management:**
+
+   - Streamlined stock order management for vendors across borders, ensuring a comprehensive and efficient system.
+
+    </td>
+    <td valign="top" width="50%">
 
 ## Technologies Used
 
-Flutter, Dart
-MVVM
-Flutter GetX, Isolates
-Firebase Messaging
-OpenCart API
+- Flutter, Dart
+- MVVM
+- Flutter GetX, Isolates
+- Firebase Messaging
+- OpenCart API
 
-</div>
+    </tr>
+  </table>
 
-## Bill Checker - Pakistan
+### Bill Checker - Pakistan
 
 <p float="left">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_1.png" width="200">
@@ -231,36 +379,50 @@ OpenCart API
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_4.png" width="200" />
 </p>
 
-<div align="center">
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
 ## Contributions
 
-- Engineered "Bill Checker," a user-friendly Flutter app for effortlessly verifying electricity, water, gas, and telephone bills with a simple click.
-- Designed a captivating and intuitive UI, featuring a versatile theme switcher for Light and Dark modes, providing an enhanced user experience.
+1. **Introducing "Bill Checker" App:**
 
-</div>
+   - Developed a user-friendly Flutter application for seamless verification of electricity, water, gas, and telephone bills.
+   - Streamlined the verification process with a simple click, ensuring convenience for users.
 
-<div align="center">
+2. **Sleek Design and Enhanced User Experience:**
+
+   - Crafted a captivating and intuitive UI design for "Bill Checker," ensuring a visually appealing and user-friendly interface.
+   - Implemented a versatile theme switcher, allowing users to seamlessly transition between Light and Dark modes for a personalized and enhanced experience.
+
+3. **Effortless Billing Verification:**
+
+   - Simplified the bill verification process, making it easy and quick for users to check and confirm their utility bills.
+   - Enhanced user experience by integrating a user-friendly interface and intuitive design elements.
+
+    </td>
+    <td valign="top" width="50%">
 
 ## Technologies Used
 
-Flutter, Dart
-MVVM
-Flutter Bloc, Isolates
-Firebase, Admob Ads and Applovin Max
+- Flutter, Dart
+- MVVM
+- Flutter Bloc, Isolates
+- Firebase, Admob Ads and Applovin Max
 
-</div>
+    </tr>
+  </table>
 
-## 🔌 Packages & Plugins I've Developed for Flutter:
+## 🔌Package & plugins I've developed for Flutter:
 
 - 🔢 [firebase_admin_sdk](https://pub.dev/packages/firebase_admin_sdk): Flutter plugin to manage your firebase admin sdk.
 - 🖨 [firebase_cloud_messaging_flutter](https://pub.dev/packages/firebase_cloud_messaging_flutter): Flutter plugin for Firebase cloud messaging to send notification directly from your flutter or dark application.
 
-## 🚀 Some of the Prominent Apps from My Portfolio:
+## 🚀 Some of the prominent apps from my portfolio:
 
-- 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform): Multi-vendor e-commerce platform.
-- 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller): Multi-vendor e-commerce platform seller application.
-- 📦 [Homy هومي](https://vadi.az): Home services provider for Saudia KSA.
+- 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform): multi-vendor e-commerce platform.
+- 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller): multi-vendor e-commerce platform seller application.
+- 📦 [Homy هومي](https://vadi.az): home services provider for saudia KSA.
 
 ## 🌐 Socials:
 
