@@ -458,7 +458,7 @@ With a diverse skill set and a track record of success, I am well-suited for any
 
 - 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform): Multi-vendor e-commerce platform.
 - 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller): Multi-vendor e-commerce platform seller application.
-- 📦 [Homy هومي](https://play.google.com/store/apps/details?id=homy.homyksaapp.Homyapp): home services provider for saudia KSA.
+- 📦 [Homy هومي](https://play.google.com/store/apps/details?id=homy.homyksaapp.Homyapp): Home services provider for saudia KSA.
 - 🚗 [CanMove](https://play.google.com/store/apps/details?id=com.canmovellc.canmove): Delivery Services App for Customer's.
 - 🚗 [CanMove Driver](https://play.google.com/store/apps/details?id=com.canmovellc.canmovedriver): Delivery Services App for Driver's.
 - 🫂 [Group Joiner](https://play.google.com/store/apps/details?id=com.wagroupss.joiner): Social Media (WhatsApp) Groups Joining App.
