@@ -27,6 +27,22 @@
     </tr>
   </table>
 
+## 🔌Package & plugins I've developed for Flutter:
+
+- 🔢 [firebase_admin_sdk](https://pub.dev/packages/firebase_admin_sdk): Flutter plugin to manage your firebase admin sdk.
+- 🖨 [firebase_cloud_messaging_flutter](https://pub.dev/packages/firebase_cloud_messaging_flutter): Flutter plugin for Firebase cloud messaging to send notification directly from your flutter or dark application.
+
+## 🚀 Some of the prominent apps from my portfolio:
+
+- 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform): Multi-vendor e-commerce platform.
+- 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller): Multi-vendor e-commerce platform seller application.
+- 📦 [Homy هومي](https://play.google.com/store/apps/details?id=homy.homyksaapp.Homyapp): Home services provider for saudia KSA.
+- 🚗 [CanMove](https://play.google.com/store/apps/details?id=com.canmovellc.canmove): Delivery Services App for Customer's.
+- 🚗 [CanMove Driver](https://play.google.com/store/apps/details?id=com.canmovellc.canmovedriver): Delivery Services App for Driver's.
+- 🫂 [Group Joiner](https://play.google.com/store/apps/details?id=com.wagroupss.joiner): Social Media (WhatsApp) Groups Joining App.
+- 💸 [All Bill Checker](https://play.google.com/store/apps/details?id=com.allbillchecker.pk): Check Water, Electricity, Gas Bills.
+- 💸 [Nakoda Urban Services](https://play.google.com/store/apps/details?id=com.nakoda.customer): Provide Home Services Like Cleaning, Plumber, Etc for Indian Customers.
+
 # Projects
 
 ### UDownload - Youtube Player
@@ -448,21 +464,6 @@ With a diverse skill set and a track record of success, I am well-suited for any
 
     </tr>
   </table>
-
-## 🔌Package & plugins I've developed for Flutter:
-
-- 🔢 [firebase_admin_sdk](https://pub.dev/packages/firebase_admin_sdk): Flutter plugin to manage your firebase admin sdk.
-- 🖨 [firebase_cloud_messaging_flutter](https://pub.dev/packages/firebase_cloud_messaging_flutter): Flutter plugin for Firebase cloud messaging to send notification directly from your flutter or dark application.
-
-## 🚀 Some of the prominent apps from my portfolio:
-
-- 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform): Multi-vendor e-commerce platform.
-- 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller): Multi-vendor e-commerce platform seller application.
-- 📦 [Homy هومي](https://play.google.com/store/apps/details?id=homy.homyksaapp.Homyapp): Home services provider for saudia KSA.
-- 🚗 [CanMove](https://play.google.com/store/apps/details?id=com.canmovellc.canmove): Delivery Services App for Customer's.
-- 🚗 [CanMove Driver](https://play.google.com/store/apps/details?id=com.canmovellc.canmovedriver): Delivery Services App for Driver's.
-- 🫂 [Group Joiner](https://play.google.com/store/apps/details?id=com.wagroupss.joiner): Social Media (WhatsApp) Groups Joining App.
-- 💸 [All Bill Checker](https://play.google.com/store/apps/details?id=com.allbillchecker.pk): Check Water, Electricity, Gas Bills.
 
 ## 💻 Tech Stack:
 
