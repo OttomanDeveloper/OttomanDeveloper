@@ -55,6 +55,8 @@
   <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_7.png" width="200" />
 </p>
 
+#### [See more Screenshots](#lifeLink-screenshots)
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -516,6 +518,8 @@ With a diverse skill set and a track record of success, I am well-suited for any
 
     </tr>
   </table>
+
+### LifeLink Screenshots
 
 ## 💻 Tech Stack:
 
