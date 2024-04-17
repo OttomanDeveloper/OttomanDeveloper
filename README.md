@@ -34,6 +34,7 @@
 
 ## 🚀 Some of the prominent apps from my portfolio:
 
+- 🧬 [LifeLink - Suicide Prevention App](https://play.google.com/store/apps/details?id=com.helper.lifelink) Track Stress, Sleep, Movements, Nearest Emergency Centres.
 - 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform): Multi-vendor e-commerce platform.
 - 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller): Multi-vendor e-commerce platform seller application.
 - 📦 [Homy هومي](https://play.google.com/store/apps/details?id=homy.homyksaapp.Homyapp): Home services provider for saudia KSA.
@@ -42,9 +43,59 @@
 - 🫂 [Group Joiner](https://play.google.com/store/apps/details?id=com.wagroupss.joiner): Social Media (WhatsApp) Groups Joining App.
 - 💸 [All Bill Checker](https://play.google.com/store/apps/details?id=com.allbillchecker.pk): Check Water, Electricity, Gas Bills.
 - 💸 [Nakoda Urban Services](https://play.google.com/store/apps/details?id=com.nakoda.customer): Provide Home Services Like Cleaning, Plumber, Etc for Indian Customers.
-- 🧬 [LifeLink - Suicide Prevention App](https://play.google.com/store/apps/details?id=com.helper.lifelink) Track Stress, Sleep, Movements, Nearest Emergency Centres.
 
 # Projects
+
+### LifeLink - Wellness & Suicide Prevention
+
+<p float="left">
+  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_13.png" width="200">
+  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_11.png" width="200" />
+  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_9.png" width="200" />
+  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_7.png" width="200" />
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## Contributions
+
+1. **Youtube Video Player and Downloader:**
+
+   - Developed a robust application using NewPie-Extractor, Dart Explode, and three other APIs for seamless video downloading in MP3 and MP4 formats with varied qualities.
+
+2. **Sharing Functionality:**
+
+   - Implemented a user-friendly sharing feature for downloaded videos, facilitating easy sharing of favorite content with others.
+
+3. **Enhanced Communication and Notifications:**
+
+   - Integrated OneSignal Notifications, Flutter Bloc, and Cubit to elevate communication and notification capabilities within the application.
+
+4. **Appealing Design with Light and Dark Themes:**
+
+   - Crafted an aesthetically pleasing design that accommodates both Light and Dark themes, ensuring an enjoyable user experience catering to diverse preferences.
+
+5. **Optimized User Interface:**
+
+   - Optimized the user interface with a simple and catchy design, ensuring intuitive navigation and interaction, providing users with an enjoyable experience.
+
+    </td>
+    <td valign="top" width="50%">
+
+## Technologies Used
+
+- Flutter, Dart
+- Flutter Animation
+- MVVM
+- Dark and Light Theme
+- Custom dynamic styling
+- Flutter Bloc, Isolates, OneSignal
+- PHP Api, Admob Ads, Applovin Max
+
+    </tr>
+  </table>
 
 ### UDownload - Youtube Player
 
