@@ -57,31 +57,34 @@
 
 #### [See more Screenshots](#lifeLink-screenshots)
 
+#### [Download from Playstore](https://play.google.com/store/apps/details?id=com.helper.lifelink)
+
 <table>
   <tr>
     <td valign="top" width="50%">
       
 ## Contributions
 
-1. **Youtube Video Player and Downloader:**
+1.  **Authenication:**
 
-   - Developed a robust application using NewPie-Extractor, Dart Explode, and three other APIs for seamless video downloading in MP3 and MP4 formats with varied qualities.
+    - Simple and minimal authentication process. It only requires a name, email, and password. No other verification is necessary.
+    - If a user wants to reset their password, they can do so with just one click by providing their email address.
 
-2. **Sharing Functionality:**
+2.  **Home:**
 
-   - Implemented a user-friendly sharing feature for downloaded videos, facilitating easy sharing of favorite content with others.
+    - Get quick access to the Supporter Guide, where you can find valuable information related to suicide prevention.
+    - Learn about the stories of individuals who have aided others in overcoming suicidal thoughts. Additionally, discover the inspiring tales of suicide survivors.
+    - To keep your mood happy, you can add your hiking destinations, read poems, view artwork, and if you're an artist, you can add your own artwork.
 
-3. **Enhanced Communication and Notifications:**
+3.  **Contact:**
 
-   - Integrated OneSignal Notifications, Flutter Bloc, and Cubit to elevate communication and notification capabilities within the application.
+    - Add your contacts whom you can access in case of an emergency.
+    - Find the nearest emergency support centers and community supports, such as those for LGBT, Black Youth, Hope Wellness, and others. Additionally, locate support services by province.
 
-4. **Appealing Design with Light and Dark Themes:**
+4.  **Track:**
 
-   - Crafted an aesthetically pleasing design that accommodates both Light and Dark themes, ensuring an enjoyable user experience catering to diverse preferences.
-
-5. **Optimized User Interface:**
-
-   - Optimized the user interface with a simple and catchy design, ensuring intuitive navigation and interaction, providing users with an enjoyable experience.
+    - Keep track of your sleeping habits, diets, stress, movements and write your journals if you love to.
+    - View your track states by spacific dates.
 
     </td>
     <td valign="top" width="50%">
@@ -90,11 +93,12 @@
 
 - Flutter, Dart
 - Flutter Animation
-- MVVM
-- Dark and Light Theme
-- Custom dynamic styling
-- Flutter Bloc, Isolates, OneSignal
-- PHP Api, Admob Ads, Applovin Max
+- MVVM Infrastructure
+- Local Notifications Support
+- Flutter Bloc, Isolates, Caching
+- Support for Dark and Light Themes
+- Google Gemini Pro - Generative Model - AI
+- Firebase Auth, Firestore, Storage, and Crashlytics.
 
     </tr>
   </table>
