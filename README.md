@@ -493,6 +493,8 @@ With a diverse skill set and a track record of success, I am well-suited for any
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_4.png" width="200" />
 </p>
 
+### [Download Test APK](https://drive.google.com/file/d/1_hhJzksC3FqmttSXARail4NJo9ueMtMS/view?usp=sharing)
+
 <table>
   <tr>
     <td valign="top" width="50%">
