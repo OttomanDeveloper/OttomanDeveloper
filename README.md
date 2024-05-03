@@ -59,6 +59,8 @@
 
 ### [Download from Playstore](https://play.google.com/store/apps/details?id=com.helper.lifelink)
 
+### [Download Test APK](https://drive.google.com/file/d/1O90huzEV80F3Gvblv62vAG4DNCTG4jzc/view?usp=sharing)
+
 <table>
   <tr>
     <td valign="top" width="50%">
