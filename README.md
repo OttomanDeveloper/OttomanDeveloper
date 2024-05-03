@@ -276,6 +276,8 @@
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_4.png" width="200" />
 </p>
 
+### [Download Test APK](https://github.com/OttomanDeveloper/status_getter/releases/download/v1.1.0/app-release.apk)
+
 <table>
   <tr>
     <td valign="top" width="50%">
