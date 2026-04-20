@@ -1,585 +1,247 @@
-# Mobile App Developer Showcase
-
-### Muhammad Usman
+<h1 align="center">Building High-Performance Multi-Platform Solutions</h1>
+<h3 align="center">Mobile • Web • Desktop</h3>
 
 <p align="center">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_profile.jpg" width="250" style="border-radius: 40px;">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_profile.jpg" width="220" style="border-radius: 50%;">
 </p>
 
-  <table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## About Me
-
-- Hey there! I'm a skilled Mobile App Developer with expertise in Dart, PHP, and Flutter. My focus is on crafting seamless user interfaces and optimizing backend solutions to enhance user interactions and overall application performance. Proficient in using top-notch tools like Figma and Postman, I am well-prepared to take on the challenges of modern Flutter application development.
-
-    </td>
-    <td valign="top" width="50%">
-
-## Skills
-
-- Languages: Dart, Kotlin, PHP
-- Frameworks & Libraries: Flutter
-- Database & Industry Tools: Firebase, RESTful API's, Hive, iSar, SQLite
-- Tools & Software: Figma, Adobe XD, Postman, Git, Bitbucket
-
-    </tr>
-  </table>
-
-## 🔌Package & plugins I've developed for Flutter:
-
-- 🔢 [firebase_admin_sdk](https://pub.dev/packages/firebase_admin_sdk): Flutter plugin to manage your firebase admin sdk.
-- 🖨 [firebase_cloud_messaging_flutter](https://pub.dev/packages/firebase_cloud_messaging_flutter): Flutter plugin for Firebase cloud messaging to send notification directly from your flutter or dark application.
-
-## 🚀 Some of the prominent apps from my portfolio:
-
-- 🧬 [LifeLink - Suicide Prevention App](https://play.google.com/store/apps/details?id=com.helper.lifelink) Track Stress, Sleep, Movements, Nearest Emergency Centres.
-- 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform): Multi-vendor e-commerce platform.
-- 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller): Multi-vendor e-commerce platform seller application.
-- 📦 [Homy هومي](https://play.google.com/store/apps/details?id=homy.homyksaapp.Homyapp): Home services provider for saudia KSA.
-- 🩸 [Blood Donors](https://play.google.com/store/apps/details?id=com.kalyanpur.blooddonation): Find Blood Donors in Remote Areas Quickly
-- 🫂 [Group Joiner](https://play.google.com/store/apps/details?id=com.wagroupss.joiner): Social Media (WhatsApp) Groups Joining App.
-- 💸 [All Bill Checker](https://play.google.com/store/apps/details?id=com.allbillchecker.pk): Check Water, Electricity, Gas Bills.
-- 💸 [Nakoda Urban Services](https://play.google.com/store/apps/details?id=com.nakoda.customer): Provide Home Services Like Cleaning, Plumber, Etc for Indian Customers.
-
-# Projects
-
-### LifeLink - Wellness & Suicide Prevention
-
-<p float="left">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_13.png" width="200">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_11.png" width="200" />
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_9.png" width="200" />
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_7.png" width="200" />
+<p align="center">
+  <a href="https://img.shields.io/badge/Focus-Problem%20Solving-brightgreen" target="_blank"><img src="https://img.shields.io/badge/Focus-Problem%20Solving-brightgreen" /></a>
+  <a href="https://img.shields.io/badge/Specialty-Full--Cycle%20Development-blue" target="_blank"><img src="https://img.shields.io/badge/Specialty-Full--Cycle%20Development-blue" /></a>
+  <a href="https://img.shields.io/badge/Passion-User%20Experience-orange" target="_blank"><img src="https://img.shields.io/badge/Passion-User%20Experience-orange" /></a>
 </p>
 
-#### [See more Screenshots](#lifeLink-screenshots)
+---
 
-### [Download from Playstore](https://play.google.com/store/apps/details?id=com.helper.lifelink)
+## 🟢 About Me
 
-### [Download Test APK](https://drive.google.com/file/d/1O90huzEV80F3Gvblv62vAG4DNCTG4jzc/view?usp=sharing)
+I am a seasoned **Multi-Platform Developer** specializing in transforming complex ideas into seamless, high-performance applications. With deep expertise in **Dart**, **Flutter**, and **PHP**, I bridge the gap between elegant user interfaces and robust backend architectures. My mission is to build digital products that aren't just functional, but exceptional.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
+- 🚀 **Full-Cycle Development**: From concept and Figma design to deployment and optimization.
+- 💻 **Versatile expertise**: Crafting native-quality experiences for Android, iOS, Web, and Desktop.
+- 🛠️ **Technical Leadership**: Developed open-source SDKs and plugins used by the community.
 
-1.  **Authenication:**
+## 🛠️ Core Stack
 
-    - Simple and minimal authentication process. It only requires a name, email, and password. No other verification is necessary.
-    - If a user wants to reset their password, they can do so with just one click by providing their email address.
+- **Languages**: Dart, PHP, JavaScript, Kotlin, Java
+- **Frameworks**: Flutter (Mobile, Web, Desktop), Laravel
+- **Databases**: Firebase, PostgreSQL, MySQL, Hive, Isar, SQLite
+- **Tools**: Figma, Postman, Google Cloud, Git/GitHub, Bitbucket
 
-2.  **Home:**
+## 🛠️ Developed Open-Source Plugins
 
-    - Get quick access to the Supporter Guide, where you can find valuable information related to suicide prevention.
-    - Learn about the stories of individuals who have aided others in overcoming suicidal thoughts. Additionally, discover the inspiring tales of suicide survivors.
-    - To keep your mood happy, you can add your hiking destinations, read poems, view artwork, and if you're an artist, you can add your own artwork.
+To give back to the Flutter community and solve missing gaps in the ecosystem, I have developed and maintained several high-impact plugins:
 
-3.  **Contact:**
+- 📦 **[firebase_admin_sdk](https://pub.dev/packages/firebase_admin_sdk)**: A comprehensive Flutter plugin for managing Firebase Admin tasks directly from your app.
+- 🔔 **[firebase_cloud_messaging_flutter](https://pub.dev/packages/firebase_cloud_messaging_flutter)**: Streamlined notification management for cross-platform Flutter applications.
 
-    - Add your contacts whom you can access in case of an emergency.
-    - Find the nearest emergency support centers and community supports, such as those for LGBT, Black Youth, Hope Wellness, and others. Additionally, locate support services by province.
+---
 
-4.  **Track:**
+## 📱 Featured Projects Portfolio
 
-    - Keep track of your sleeping habits, diets, stress, movements and write your journals if you love to.
-    - View your track states by spacific dates.
+I specialize in building complex, scalable applications that solve real-world problems. Below are some of my significant highlights:
 
-    </td>
-    <td valign="top" width="50%">
+- 🧬 [LifeLink - Suicide Prevention App](https://play.google.com/store/apps/details?id=com.helper.lifelink)
+- 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform) - Multi-vendor E-commerce
+- 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller)
+- 📦 [Homy هومي](https://play.google.com/store/apps/details?id=homy.homyksaapp.Homyapp) - Home Services Marketplace
+- 🩸 [Blood Donors](https://play.google.com/store/apps/details?id=com.kalyanpur.blooddonation) - Emergency Locator
+- 🫂 [Group Joiner](https://play.google.com/store/apps/details?id=com.wagroupss.joiner) - Social Networking
+- 💸 [All Bill Checker](https://play.google.com/store/apps/details?id=com.allbillchecker.pk) - Utility Management
+- 🏢 [Nakoda Urban Services](https://play.google.com/store/apps/details?id=com.nakoda.customer) - Home Services
 
-## Technologies Used
+## 🚀 Featured Projects
 
-- Flutter, Dart
-- Flutter Animation
-- MVVM Infrastructure
-- Local Notifications Support
-- Flutter Bloc, Isolates, Caching
-- Support for Dark and Light Themes
-- Google Gemini Pro - Generative Model - AI
-- Firebase Auth, Firestore, Storage, and Crashlytics.
+<details open>
+<summary><b>🧬 LifeLink - Wellness & Suicide Prevention</b></summary>
+<br>
 
-    </tr>
-  </table>
+**The Challenge**: Building a reliable, empathetic tool for crisis intervention that tracks sensitive metrics (sleep, stress) without compromising user privacy or speed.
 
-### UDownload - Youtube Player
+**The Solution**: Developed a cross-platform Flutter app integrated with Gemini AI for mood support and background tracking services to provide real-time wellness insights.
 
-<p float="left">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_1.png" width="200">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_2.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_3.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_4.png" width="200" />
+<p align="center">
+  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_13.png" width="180">
+  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_11.png" width="180" />
+  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_9.png" width="180" />
+  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_7.png" width="180" />
 </p>
 
-### [Download Test APK](https://drive.google.com/file/d/1fIHw9DBSqHHXHGl_W4c0fgvza3G3CoOV/view?usp=sharing)
+- **Tech**: Flutter, BLoC, Gemini AI, Firebase, Isolates
+- **Links**: [Play Store](https://play.google.com/store/apps/details?id=com.helper.lifelink) • [Test APK](https://drive.google.com/file/d/1O90huzEV80F3Gvblv62vAG4DNCTG4jzc/view?usp=sharing)
+</details>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
+<details>
+<summary><b>📺 UDownload - Advanced YouTube Suite</b></summary>
+<br>
 
-1. **Youtube Video Player and Downloader:**
+**The Challenge**: Creating a seamless video/audio downloader that bypasses complex extraction hurdles while maintaining a high-performance player.
 
-   - Developed a robust application using NewPie-Extractor, Dart Explode, and three other APIs for seamless video downloading in MP3 and MP4 formats with varied qualities.
+**The Solution**: Engineered a custom extraction engine using Dart/PHP APIs, optimized with Isolates for concurrent downloads and a slick dual-theme UI.
 
-2. **Sharing Functionality:**
-
-   - Implemented a user-friendly sharing feature for downloaded videos, facilitating easy sharing of favorite content with others.
-
-3. **Enhanced Communication and Notifications:**
-
-   - Integrated OneSignal Notifications, Flutter Bloc, and Cubit to elevate communication and notification capabilities within the application.
-
-4. **Appealing Design with Light and Dark Themes:**
-
-   - Crafted an aesthetically pleasing design that accommodates both Light and Dark themes, ensuring an enjoyable user experience catering to diverse preferences.
-
-5. **Optimized User Interface:**
-
-   - Optimized the user interface with a simple and catchy design, ensuring intuitive navigation and interaction, providing users with an enjoyable experience.
-
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-
-- Flutter, Dart
-- Flutter Animation
-- MVVM
-- Dark and Light Theme
-- Custom dynamic styling
-- Flutter Bloc, Isolates, OneSignal
-- PHP Api, Admob Ads, Applovin Max
-
-    </tr>
-  </table>
-
-### YT Master - Youtube Services Market
-
-<p float="left">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_1.png" width="200">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_2.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_3.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_4.png" width="200" />
+<p align="center">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_1.png" width="180">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_2.png" width="180" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_3.png" width="180" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_4.png" width="180" />
 </p>
 
-### [Download Test APK](https://drive.google.com/file/d/1qIS48P6ceQCKApjp6xwr34W6ZU8kesy4/view?usp=sharing)
+- **Tech**: Flutter, PHP API, BLoC, OneSignal
+- **Links**: [Test APK](https://drive.google.com/file/d/1fIHw9DBSqHHXHGl_W4c0fgvza3G3CoOV/view?usp=sharing)
+</details>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
+<details>
+<summary><b>💰 YT Master - YouTube Services Market</b></summary>
+<br>
 
-1. **Flutter Expertise:**
+**The Challenge**: Managing a dual-sided marketplace with complex monetization (buying/selling channels, watch time) and real-time user notification systems.
 
-   - Developed YT Master using Flutter, showcasing proficiency in cross-platform app development.
+**The Solution**: Built a robust coin-based ecosystem with dynamic theme switching and OneSignal integration, leveraging Provider for efficient state management and YouTube V3 APIs.
 
-2. **Monetization Features:**
-
-   - Implemented a comprehensive system enabling users to buy/sell YouTube channels, purchase watch time, subscribers, and views.
-   - Introduced campaigns to boost channel/video views, adding a unique and powerful monetization aspect to the app.
-
-3. **State-of-the-Art State Management:**
-
-   - Employed Flutter's state management solutions for efficient data and UI management, ensuring a smooth and responsive user experience.
-
-4. **Engaging User Communication:**
-
-   - Integrated OneSignal Notifications to keep users informed about campaigns and app activities, enhancing user engagement.
-
-5. **Coin-Based System:**
-
-   - Engineered a coin-based system for purchases and rewards, providing a flexible and rewarding user experience.
-   - Users can buy coins and earn free coins by inviting friends, fostering user retention and app growth.
-
-6. **Dynamic Theme Switcher:**
-
-   - Developed a seamless theme switcher, allowing users to effortlessly switch between dark and light modes.
-   - Enhanced user experience and visual appeal, catering to diverse user preferences.
-
-7. **App Redesign and Animation:**
-
-   - Led a comprehensive app redesign, leveraging Flutter Animation and custom styling components.
-   - Resulted in an intuitive and engaging design, elevating user interactions and overall user experience.
-
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-
-- Flutter, Dart
-- Flutter Animation
-- MVVM
-- OneSignal Notifications
-- Custom dynamic styling
-- Flutter Provider, Isolates
-- Firebase, Admob Ads
-- Youtube API's V3
-
-    </tr>
-  </table>
-
-### Social Grouper & Scam Finder
-
-<p float="left">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_1.png" width="200">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_2.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_3.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_4.png" width="200" />
+<p align="center">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_1.png" width="180" alt="YT Master 1">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_2.png" width="180" alt="YT Master 2" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_3.png" width="180" alt="YT Master 3" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_4.png" width="180" alt="YT Master 4" />
 </p>
 
-### [Download Test APK](https://drive.google.com/file/d/1KaNMV5g5Hsdb67thVUai4AA1EdO_jhs2/view?usp=sharing)
+- **Tech**: Flutter, Provider, Youtube V3 API, OneSignal, Firebase
+- **Links**: [Test APK](https://drive.google.com/file/d/1qIS48P6ceQCKApjp6xwr34W6ZU8kesy4/view?usp=sharing)
+</details>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
+<details>
+<summary><b>🤝 Social Grouper & Scam Finder</b></summary>
+<br>
 
-1. **Social Grouper App Development:**
+**The Challenge**: Providing a safe community platform for joining social groups while actively identifying and reporting malicious actors.
 
-   - Developed a Social Grouper app that facilitates users in joining social media groups and includes robust scammer detection features.
+**The Solution**: Implemented a community-driven reporting system with intuitive UI animations and a versatile theme engine, protected by robust backend validation.
 
-2. **User-Friendly Features:**
-
-   - Implemented intuitive features for users to effortlessly add social groups.
-   - Integrated a reporting system for identifying and reporting potential scammers within the app.
-
-3. **Versatile Theme Switcher:**
-
-   - Designed and implemented a versatile theme switcher in Flutter.
-   - Enables users to seamlessly switch between light and dark modes for a personalized visual experience.
-
-4. **Enhanced UI/UX:**
-
-   - Elevated the app's UI/UX through the integration of intuitive animations.
-   - Customized styling components for a visually appealing and user-friendly interface.
-
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-
-- Flutter, Dart
-- Flutter Animation
-- MVVM
-- Custom dynamic styling
-- Flutter Bloc, Isolates
-- Firebase, Admob Ads and Applovin Max
-
-    </tr>
-  </table>
-
-### WhatsApp Status Saver & Video Downloader
-
-<p float="left">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_1.png" width="200">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_2.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_3.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_4.png" width="200" />
+<p align="center">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_1.png" width="180" alt="Grouper 1">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_2.png" width="180" alt="Grouper 2" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_3.png" width="180" alt="Grouper 3" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_4.png" width="180" alt="Grouper 4" />
 </p>
 
-### [Download Test APK](https://github.com/OttomanDeveloper/status_getter/releases)
+- **Tech**: Flutter, BLoC, Firebase, Admob/Applovin
+- **Links**: [Test APK](https://drive.google.com/file/d/1KaNMV5g5Hsdb67thVUai4AA1EdO_jhs2/view?usp=sharing)
+</details>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
+<details>
+<summary><b>📥 WhatsApp Status Saver & Multi-Downloader</b></summary>
+<br>
 
-1. **Seamless Status Saving:**
+**The Challenge**: Efficiently managing high-volume file I/O operations and providing support for 10+ different social platform extraction methods.
 
-   - Effortlessly preserve both personal and business WhatsApp statuses.
+**The Solution**: Developed an optimized multi-downloader using Dart Isolates for background processing and a clean, non-intrusive ad integration strategy.
 
-2. **Versatile Video Downloads:**
-
-   - Download videos conveniently from over 10 popular platforms.
-   - Supported platforms include YouTube, TikTok, Facebook, Instagram, and more.
-
-3. **Diverse Content Selection:**
-
-   - Access a wide array of video content for diverse preferences.
-   - Enjoy the flexibility of downloading content for offline viewing.
-
-4. **Enhanced User Experience:**
-
-   - Benefit from an improved user interface and interaction.
-   - Integration of Google Mobile Ads for additional features.
-
-5. **Non-intrusive Ad Experience:**
-
-   - Experience non-disruptive ads that enhance app functionality.
-   - Ads are designed to contribute to the app's features without compromising the user experience.
-
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-
-- Flutter, Dart
-- MVVM
-- Flutter Bloc, Isolates
-- Firebase, Admob Ads
-
-    </tr>
-  </table>
-
-# Experience
-
-Most recently, I served as a Mobile Software Engineer (Flutter Specialist) at SD Cold Logistics & YouShopper, Inc. There, I led the redesign of the YouShopper applications, developed comprehensive applications for customers, sellers, and delivery personnel. Additionally, I spearheaded the development of the LBH beauty products application and provided assistance in the backend migration for the Seller app.
-
-Prior to that, I gained valuable experience as a Flutter Developer at HomyKSA. During my tenure, I developed a complete home services app offering various services like cleaning, plumbing, and AC services. I collaborated closely with the backend team to seamlessly integrate APIs and ensure a smooth order flow.
-
-With a diverse skill set and a track record of success, I am well-suited for any Flutter development position. I am eager to apply my expertise to contribute to innovative and exciting projects.
-
-# Contact Information
-
-<div align="start">
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="mailto:ottomandeveloper@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email icon" />
-    <span style="margin-left: 10px;">ottomandeveloper@gmail.com</span>
-  </a>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://www.linkedin.com/in/ottomancoder/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn icon" />
-    <span style="margin-left: 10px;">https://www.linkedin.com/in/ottomancoder/</span>
-  </a>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://wa.me/message/4DIU6JPIALUGK1" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp icon" />
-    <span style="margin-left: 10px;">https://wa.me/message/4DIU6JPIALUGK1</span>
-  </a>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://stackoverflow.com/users/15117215" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow icon" />
-    <span style="margin-left: 10px;">https://stackoverflow.com/users/15117215</span>
-  </a>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://www.youtube.com/@OttomanCoder" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube icon" />
-    <span style="margin-left: 10px;">https://www.youtube.com/@OttomanCoder</span>
-  </a>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <a href="https://instagram.com/ottoman_coder" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram icon" />
-    <span style="margin-left: 10px;">https://instagram.com/ottoman_coder</span>
-  </a>
-</div>
-
-</div>
-
-# More Projects
-
-### ICare - Meditation & Inner Calm
-
-<p float="left">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_1.png" width="200">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_2.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_3.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_4.png" width="200" />
+<p align="center">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_1.png" width="180" alt="Status Saver 1">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_2.png" width="180" alt="Status Saver 2" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_3.png" width="180" alt="Status Saver 3" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_4.png" width="180" alt="Status Saver 4" />
 </p>
 
-### [Download Test APK](https://drive.google.com/file/d/1Hd0F4yJBp-DMoEE69OYO1qhZYQEPKp6-/view?usp=sharing)
+- **Tech**: Flutter, BLoC, Isolates, Firebase
+- **Links**: [Releases](https://github.com/OttomanDeveloper/status_getter/releases)
+</details>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
+<details>
+<summary><b>🧘 ICare - Meditation & Inner Calm</b></summary>
+<br>
 
-1. **App Development: Icare - A Meditation and Inner Calm App**
+**The Challenge**: Creating a secure, tranquil space for mental wellness that balances multi-media content (audio, voice) with high security (biometrics).
 
-   - Developed Icare, a meditation and inner calm app using Flutter.
-   - Implemented features for mood tracking, allowing users to monitor their daily emotional well-being.
+**The Solution**: Developed a comprehensive meditation suite with Firebase Cloud Functions for data management, integrated Fingerprint Auth for privacy, and optimized audio streams for a smooth user experience.
 
-2. **Meditation Features:**
-
-   - Created breathing sessions with guided voice instructions and background music.
-   - Provided users with multiple meditation music options and the flexibility to add custom music.
-
-3. **Firebase Integration:**
-
-   - Integrated Firebase Firestore, Auth, Storage, and Cloud Functions for secure data storage and user authentication.
-   - Utilized Firebase Admin SDK for efficient data deletion and user management.
-
-4. **Security Enhancements:**
-
-   - Implemented a fingerprint authentication feature to enhance app security.
-
-5. **Community Building:**
-
-   - Established a social community within the app to connect users and encourage interaction.
-
-6. **Comprehensive User Experience:**
-
-   - Incorporated a to-do manager, diary, and voice memo functionalities to provide users with a comprehensive experience.
-
-7. **User-Friendly Design:**
-
-   - Designed the app with a simple and catchy interface to ensure a pleasant and intuitive user experience.
-
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-
-- Flutter, Dart
-- MVVM
-- GetX, Isolates
-- Firebase, Firestore, Auth, Storage and Cloud Functions.
-- Flutter Animations
-- Firebase Messaging
-- Node.Js for Cloud Functions
-
-    </tr>
-  </table>
-
-### CourierGo - Multi-Vendor Delivery App
-
-<p float="left">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_1.png" width="200">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_2.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_3.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_4.png" width="200" />
+<p align="center">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_1.png" width="180" alt="ICare 1">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_2.png" width="180" alt="ICare 2" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_3.png" width="180" alt="ICare 3" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_4.png" width="180" alt="ICare 4" />
 </p>
 
-### [Download Test APK](https://drive.google.com/file/d/1PQNejDr0FjXLSt40-SiUcoF2b_Aah_nX/view?usp=sharing)
+- **Tech**: Flutter, GetX, Firebase (Storage/Functions), Node.js
+- **Links**: [Test APK](https://drive.google.com/file/d/1Hd0F4yJBp-DMoEE69OYO1qhZYQEPKp6-/view?usp=sharing)
+</details>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
+<details>
+<summary><b>🚚 CourierGo - Multi-Vendor Logistics</b></summary>
+<br>
 
-1. **Revolutionizing Courier Services:**
+**The Challenge**: Synchronizing global stock orders across multiple countries using legacy OpenCart APIs while maintaining a responsive mobile UI.
 
-   - Successfully developed a Courier App integrated with OpenCart API, empowering vendors to efficiently manage stock orders spanning multiple countries.
+**The Solution**: Engineered a real-time tracking and management system using OpenCart API integration, optimized with GetX for snappy state updates across cross-border transactions.
 
-2. **Enhanced User Experience:**
-
-   - Implemented user-friendly features, including an advanced search with filters, to provide a seamless and efficient parcel management experience.
-
-3. **Global Stock Order Management:**
-
-   - Streamlined stock order management for vendors across borders, ensuring a comprehensive and efficient system.
-
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-
-- Flutter, Dart
-- MVVM
-- Flutter GetX, Isolates
-- Firebase Messaging
-- OpenCart API
-
-    </tr>
-  </table>
-
-### Bill Checker - Pakistan
-
-<p float="left">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_1.png" width="200">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_2.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_3.png" width="200" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_4.png" width="200" />
+<p align="center">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_1.png" width="180" alt="Courier 1">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_2.png" width="180" alt="Courier 2" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_3.png" width="180" alt="Courier 3" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_4.png" width="180" alt="Courier 4" />
 </p>
 
-### [Download Test APK](https://drive.google.com/file/d/1_hhJzksC3FqmttSXARail4NJo9ueMtMS/view?usp=sharing)
+- **Tech**: Flutter, GetX, OpenCart API, Firebase Messaging
+- **Links**: [Test APK](https://drive.google.com/file/d/1PQNejDr0FjXLSt40-SiUcoF2b_Aah_nX/view?usp=sharing)
+</details>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
+<details>
+<summary><b>🧾 Bill Checker - Utility Management</b></summary>
+<br>
 
-1. **Introducing "Bill Checker" App:**
+**The Challenge**: Aggregating disparate utility data sources (Electric, Water, Gas) into a single, cohesive, and easy-to-use interface.
 
-   - Developed a user-friendly Flutter application for seamless verification of electricity, water, gas, and telephone bills.
-   - Streamlined the verification process with a simple click, ensuring convenience for users.
+**The Solution**: Crafted a sleek, dual-theme utility checker leveraging BLoC for reliable state management and customized styling for premium visual appeal.
 
-2. **Sleek Design and Enhanced User Experience:**
-
-   - Crafted a captivating and intuitive UI design for "Bill Checker," ensuring a visually appealing and user-friendly interface.
-   - Implemented a versatile theme switcher, allowing users to seamlessly transition between Light and Dark modes for a personalized and enhanced experience.
-
-3. **Effortless Billing Verification:**
-
-   - Simplified the bill verification process, making it easy and quick for users to check and confirm their utility bills.
-   - Enhanced user experience by integrating a user-friendly interface and intuitive design elements.
-
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-
-- Flutter, Dart
-- MVVM
-- Flutter Bloc, Isolates
-- Firebase, Admob Ads and Applovin Max
-
-    </tr>
-  </table>
-
-### LifeLink Screenshots
-
-<p float="left">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_1.png" width="200">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_2.png" width="200" />
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_3.png" width="200" />
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_4.png" width="200" />
-</p>
-<p float="left">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_5.png" width="200">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_6.png" width="200" />
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_7.png" width="200" />
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_8.png" width="200" />
-</p>
-<p float="left">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_9.png" width="200">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_10.png" width="200" />
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_11.png" width="200" />
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_12.png" width="200" />
-</p>
-<p float="center">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_13.png" width="200">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_14.png" width="200" />
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_15.png" width="200" />
+<p align="center">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_1.png" width="180" alt="Bill Checker 1">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_2.png" width="180" alt="Bill Checker 2" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_3.png" width="180" alt="Bill Checker 3" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_4.png" width="180" alt="Bill Checker 4" />
 </p>
 
-## 💻 Tech Stack:
+- **Tech**: Flutter, BLoC, Firebase, Admob/Applovin
+- **Links**: [Test APK](https://drive.google.com/file/d/1_hhJzksC3FqmttSXARail4NJo9ueMtMS/view?usp=sharing)
+</details>
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+---
 
-## 📊 GitHub Stats:
+## 👨‍💻 Experience & Career Highlights
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OttomanDeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=OttomanDeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=OttomanDeveloper&theme=vue-dark&hide_border=false)
+**Mobile Software Engineer (Multi-Platform Specialist)** | **SD Cold Logistics & YouShopper, Inc.**
+- Led the architectural redesign of the YouShopper ecosystem, developing enterprise-grade apps for Customers, Sellers, and Delivery personnel.
+- Spearheaded the development of the LBH beauty products application, optimizing performance for high-traffic environments.
+- Managed complex backend migrations, ensuring zero-downtime for the YouShopper Seller platform.
 
-## 🏆 GitHub Trophies
+**Senior Flutter Developer** | **HomyKSA**
+- Developed and deployed a comprehensive home services marketplace (Cleaning, Plumbing, AC), serving the KSA region.
+- Collaborated on deep API integrations to streamline order flows and real-time service tracking.
 
-![](https://github-profile-trophy.vercel.app/?username=OttomanDeveloper&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+---
 
-[![](https://visitcount.itsvg.in/api?id=OttomanDeveloper&icon=0&color=9)](https://visitcount.itsvg.in)
+## 📬 Let's Build Something Together
 
+I'm always looking for innovative projects and teams to collaborate with. Whether you have a clear vision or just a rough idea, I can help you bring it to life.
 
-<!-- - 🚗 [CanMove](https://play.google.com/store/apps/details?id=com.canmovellc.canmove): Delivery Services App for Customer's.
-- 🚗 [CanMove Driver](https://play.google.com/store/apps/details?id=com.canmovellc.canmovedriver): Delivery Services App for Driver's. -->
+<p align="left">
+  <a href="mailto:ottomandeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ottomancoder/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/message/4DIU6JPIALUGK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://stackoverflow.com/users/15117215"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" /></a>
+  <a href="https://www.youtube.com/@OttomanCoder"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+</p>
+
+---
+
+## 📈 Platform Mastery & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OttomanDeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OttomanDeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OttomanDeveloper&theme=vue-dark&hide_border=false" alt="Streak Stats" />
+</p>
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=OttomanDeveloper&icon=0&color=9" alt="Visit Count" />
+</p>
