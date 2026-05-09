@@ -270,19 +270,19 @@ Tools           Figma · Postman · Google Cloud · Git · Bitbucket
 
 ---
 
+<p align="center">
+  <b>Open to remote work, long-term contracts, and partnership opportunities.</b><br>
+  <i>If you need someone who ships — not someone who talks about shipping — let's connect.</i>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OttomanDeveloper&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OttomanDeveloper&theme=vue-dark&hide_border=true" alt="Streak Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OttomanDeveloper&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-</p>
-
----
-
-<p align="center">
-  <b>Open to remote work, long-term contracts, and partnership opportunities.</b><br>
-  <i>If you need someone who ships — not someone who talks about shipping — let's connect.</i>
 </p>
 
 <p align="center">
