@@ -1,64 +1,74 @@
 <h1 align="center">Building High-Performance Multi-Platform Solutions</h1>
-<h3 align="center">Mobile • Web • Desktop</h3>
+<h3 align="center">Senior Mobile • Web • Desktop Engineer</h3>
 
 <p align="center">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_profile.jpg" width="220" style="border-radius: 50%;">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/usman_profile.jpg" width="220" style="border-radius: 50%; border: 4px solid #0175C2;">
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/badge/Focus-Problem%20Solving-brightgreen" target="_blank"><img src="https://img.shields.io/badge/Focus-Problem%20Solving-brightgreen" /></a>
-  <a href="https://img.shields.io/badge/Specialty-Full--Cycle%20Development-blue" target="_blank"><img src="https://img.shields.io/badge/Specialty-Full--Cycle%20Development-blue" /></a>
-  <a href="https://img.shields.io/badge/Passion-User%20Experience-orange" target="_blank"><img src="https://img.shields.io/badge/Passion-User%20Experience-orange" /></a>
+  <a href="https://linkedin.com/in/ottomancoder"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://pub.dev/publishers/ottomancoder.com/packages"><img src="https://img.shields.io/badge/Pub.dev-Packages-0175C2?style=for-the-badge&logo=dart" /></a>
+  <a href="https://wa.me/message/4DIU6JPIALUGK1"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp" /></a>
 </p>
 
 ---
 
 ## 🟢 About Me
 
-I am a seasoned **Multi-Platform Developer** specializing in transforming complex ideas into seamless, high-performance applications. With deep expertise in **Dart**, **Flutter**, and **PHP**, I bridge the gap between elegant user interfaces and robust backend architectures. My mission is to build digital products that aren't just functional, but exceptional.
+I am a **Senior Multi-Platform Developer** specializing in transforming complex ideas into seamless, high-performance applications. With 5+ years of expertise in **Dart**, **Flutter**, and **PHP**, I bridge the gap between elegant user interfaces and robust, scalable backend architectures. 
 
-- 🚀 **Full-Cycle Development**: From concept and Figma design to deployment and optimization.
+- 🚀 **Proven Scale**: Independently built and scaled a streaming platform to **600,000+ active users** with #1 Play Store ranking.
 - 💻 **Versatile expertise**: Crafting native-quality experiences for Android, iOS, Web, and Desktop.
-- 🛠️ **Technical Leadership**: Developed open-source SDKs and plugins used by the community.
+- 🛠️ **Infrastructure Contributor**: Authored the initial implementation of the **Firebase Admin SDK for Dart**, which served as the foundation for the official Google-maintained package.
+- 🤖 **AI Integration**: Specialist in integrating Generative AI (Gemini AI) and on-device models into production-ready health and utility apps.
+
+---
 
 ## 🛠️ Core Stack
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+</p>
+
 - **Languages**: Dart, PHP, JavaScript, Kotlin, Java
-- **Frameworks**: Flutter (Mobile, Web, Desktop), Laravel
-- **Databases**: Firebase, PostgreSQL, MySQL, Hive, Isar, SQLite
+- **Frameworks**: Flutter (Mobile, Web, Desktop), Node.js, Laravel
+- **Databases**: PostgreSQL, MySQL, Firebase, Hive, Isar, SQLite
 - **Tools**: Figma, Postman, Google Cloud, Git/GitHub, Bitbucket
 
-## 🛠️ Developed Open-Source Plugins
+---
 
-To give back to the Flutter community and solve missing gaps in the ecosystem, I have developed and maintained several high-impact plugins:
+## 🛠️ Developed Open-Source Ecosystem
 
-- 📦 **[firebase_admin_sdk](https://pub.dev/packages/firebase_admin_sdk)**: A comprehensive Flutter plugin for managing Firebase Admin tasks directly from your app.
-- 🔔 **[firebase_cloud_messaging_flutter](https://pub.dev/packages/firebase_cloud_messaging_flutter)**: Streamlined notification management for cross-platform Flutter applications.
+To bridge missing gaps in the Flutter ecosystem, I develop and maintain high-impact plugins:
+
+- 📦 **[firebase_admin_sdk](https://pub.dev/packages/firebase_admin_sdk)**: Authored the initial core implementation for managing Firebase Admin tasks in Dart—now transitioned to the official Google publisher.
+- 🔔 **[firebase_cloud_messaging_dart](https://pub.dev/packages/firebase_cloud_messaging_dart)**: Zero-dependency package to send FCM notifications directly from Dart/Flutter.
+- 📈 **[charts_flutter_maintained](https://pub.dev/packages/charts_flutter_maintained)**: Community-led maintenance of the critical charts library.
 
 ---
 
 ## 📱 Featured Projects Portfolio
 
-I specialize in building complex, scalable applications that solve real-world problems. Below are some of my significant highlights:
+### 🏆 Hero Project: Legend TV (Streaming Platform)
+**Scale: 600,000+ Active Users | Ranked #1 in Category for 5 Months**
+- Built solo from scratch, managing full architecture and deployment.
+- Generated $20,000+ in revenue via optimized ad-integration and subscription loops.
 
-- 🧬 [LifeLink - Suicide Prevention App](https://play.google.com/store/apps/details?id=com.helper.lifelink)
-- 🏦 [YouShopper](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform) - Multi-vendor E-commerce
-- 🛍️ [YouShopper Seller](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller)
-- 📦 [Homy هومي](https://play.google.com/store/apps/details?id=homy.homyksaapp.Homyapp) - Home Services Marketplace
-- 🩸 [Blood Donors](https://play.google.com/store/apps/details?id=com.kalyanpur.blooddonation) - Emergency Locator
-- 🫂 [Group Joiner](https://play.google.com/store/apps/details?id=com.wagroupss.joiner) - Social Networking
-- 💸 [All Bill Checker](https://play.google.com/store/apps/details?id=com.allbillchecker.pk) - Utility Management
-- 🏢 [Nakoda Urban Services](https://play.google.com/store/apps/details?id=com.nakoda.customer) - Home Services
+---
 
-## 🚀 Featured Projects
+## 🚀 Detailed Case Studies
 
 <details open>
-<summary><b>🧬 LifeLink - Wellness & Suicide Prevention</b></summary>
+<summary><b>🧬 LifeLink - Wellness & Suicide Prevention (AI-Integrated)</b></summary>
 <br>
 
 **The Challenge**: Building a reliable, empathetic tool for crisis intervention that tracks sensitive metrics (sleep, stress) without compromising user privacy or speed.
 
-**The Solution**: Developed a cross-platform Flutter app integrated with Gemini AI for mood support and background tracking services to provide real-time wellness insights.
+**The Solution**: Developed a cross-platform Flutter app integrated with Gemini AI for mood support and background tracking services (Isolates) to provide real-time wellness insights.
 
 <p align="center">
   <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_13.png" width="180">
@@ -72,10 +82,10 @@ I specialize in building complex, scalable applications that solve real-world pr
 </details>
 
 <details>
-<summary><b>📺 UDownload - Advanced YouTube Suite</b></summary>
+<summary><b>📺 UDownload - Advanced Multi-Platform Downloader</b></summary>
 <br>
 
-**The Challenge**: Creating a seamless video/audio downloader that bypasses complex extraction hurdles while maintaining a high-performance player.
+**The Challenge**: Creating a seamless video/audio downloader that bypasses complex extraction hurdles for 10+ platforms while maintaining high performance.
 
 **The Solution**: Engineered a custom extraction engine using Dart/PHP APIs, optimized with Isolates for concurrent downloads and a slick dual-theme UI.
 
@@ -91,12 +101,12 @@ I specialize in building complex, scalable applications that solve real-world pr
 </details>
 
 <details>
-<summary><b>💰 YT Master - YouTube Services Market</b></summary>
+<summary><b>💰 YouShopper - Multi-Vendor E-Commerce Ecosystem</b></summary>
 <br>
 
-**The Challenge**: Managing a dual-sided marketplace with complex monetization (buying/selling channels, watch time) and real-time user notification systems.
+**The Challenge**: Managing a dual-sided marketplace with complex monetization (buying/selling channels) and real-time inventory synchronization.
 
-**The Solution**: Built a robust coin-based ecosystem with dynamic theme switching and OneSignal integration, leveraging Provider for efficient state management and YouTube V3 APIs.
+**The Solution**: Built a robust coin-based ecosystem with dynamic theme switching, managing Customers, Sellers, and Delivery apps as a unified platform.
 
 <p align="center">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/yt_master_1.png" width="180" alt="YT Master 1">
@@ -106,7 +116,7 @@ I specialize in building complex, scalable applications that solve real-world pr
 </p>
 
 - **Tech**: Flutter, Provider, Youtube V3 API, OneSignal, Firebase
-- **Links**: [Test APK](https://drive.google.com/file/d/1qIS48P6ceQCKApjp6xwr34W6ZU8kesy4/view?usp=sharing)
+- **Links**: [Customer App](https://play.google.com/store/apps/details?id=com.warehousesheriff.ssPlatform) • [Seller App](https://play.google.com/store/apps/details?id=com.warehousesheriff.youshopper.seller)
 </details>
 
 <details>
@@ -115,7 +125,7 @@ I specialize in building complex, scalable applications that solve real-world pr
 
 **The Challenge**: Providing a safe community platform for joining social groups while actively identifying and reporting malicious actors.
 
-**The Solution**: Implemented a community-driven reporting system with intuitive UI animations and a versatile theme engine, protected by robust backend validation.
+**The Solution**: Implemented a community-driven reporting system with intuitive UI animations, protected by robust backend validation.
 
 <p align="center">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/grouper_1.png" width="180" alt="Grouper 1">
@@ -125,35 +135,16 @@ I specialize in building complex, scalable applications that solve real-world pr
 </p>
 
 - **Tech**: Flutter, BLoC, Firebase, Admob/Applovin
-- **Links**: [Test APK](https://drive.google.com/file/d/1KaNMV5g5Hsdb67thVUai4AA1EdO_jhs2/view?usp=sharing)
+- **Links**: [Play Store](https://play.google.com/store/apps/details?id=com.wagroupss.joiner)
 </details>
 
 <details>
-<summary><b>📥 WhatsApp Status Saver & Multi-Downloader</b></summary>
+<summary><b>🧘 ICare - Meditation & Wellness Suite</b></summary>
 <br>
 
-**The Challenge**: Efficiently managing high-volume file I/O operations and providing support for 10+ different social platform extraction methods.
+**The Challenge**: Creating a secure, tranquil space for mental wellness that balances audio streaming with high security (biometrics).
 
-**The Solution**: Developed an optimized multi-downloader using Dart Isolates for background processing and a clean, non-intrusive ad integration strategy.
-
-<p align="center">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_1.png" width="180" alt="Status Saver 1">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_2.png" width="180" alt="Status Saver 2" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_3.png" width="180" alt="Status Saver 3" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_4.png" width="180" alt="Status Saver 4" />
-</p>
-
-- **Tech**: Flutter, BLoC, Isolates, Firebase
-- **Links**: [Releases](https://github.com/OttomanDeveloper/status_getter/releases)
-</details>
-
-<details>
-<summary><b>🧘 ICare - Meditation & Inner Calm</b></summary>
-<br>
-
-**The Challenge**: Creating a secure, tranquil space for mental wellness that balances multi-media content (audio, voice) with high security (biometrics).
-
-**The Solution**: Developed a comprehensive meditation suite with Firebase Cloud Functions for data management, integrated Fingerprint Auth for privacy, and optimized audio streams for a smooth user experience.
+**The Solution**: Developed a comprehensive meditation suite with Fingerprint Auth, Firebase Cloud Functions for data management, and optimized audio streaming.
 
 <p align="center">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_1.png" width="180" alt="ICare 1">
@@ -162,17 +153,17 @@ I specialize in building complex, scalable applications that solve real-world pr
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_4.png" width="180" alt="ICare 4" />
 </p>
 
-- **Tech**: Flutter, GetX, Firebase (Storage/Functions), Node.js
+- **Tech**: Flutter, GetX, Firebase, Node.js
 - **Links**: [Test APK](https://drive.google.com/file/d/1Hd0F4yJBp-DMoEE69OYO1qhZYQEPKp6-/view?usp=sharing)
 </details>
 
 <details>
-<summary><b>🚚 CourierGo - Multi-Vendor Logistics</b></summary>
+<summary><b>🚚 CourierGo & Nakoda Services</b></summary>
 <br>
 
-**The Challenge**: Synchronizing global stock orders across multiple countries using legacy OpenCart APIs while maintaining a responsive mobile UI.
+**The Challenge**: Synchronizing global stock orders using legacy OpenCart APIs while maintaining a responsive multi-vendor logistics UI.
 
-**The Solution**: Engineered a real-time tracking and management system using OpenCart API integration, optimized with GetX for snappy state updates across cross-border transactions.
+**The Solution**: Engineered real-time tracking systems with OpenCart API integration, optimized with GetX for snappy state updates across borders.
 
 <p align="center">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/courier_1.png" width="180" alt="Courier 1">
@@ -182,52 +173,33 @@ I specialize in building complex, scalable applications that solve real-world pr
 </p>
 
 - **Tech**: Flutter, GetX, OpenCart API, Firebase Messaging
-- **Links**: [Test APK](https://drive.google.com/file/d/1PQNejDr0FjXLSt40-SiUcoF2b_Aah_nX/view?usp=sharing)
-</details>
-
-<details>
-<summary><b>🧾 Bill Checker - Utility Management</b></summary>
-<br>
-
-**The Challenge**: Aggregating disparate utility data sources (Electric, Water, Gas) into a single, cohesive, and easy-to-use interface.
-
-**The Solution**: Crafted a sleek, dual-theme utility checker leveraging BLoC for reliable state management and customized styling for premium visual appeal.
-
-<p align="center">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_1.png" width="180" alt="Bill Checker 1">
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_2.png" width="180" alt="Bill Checker 2" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_3.png" width="180" alt="Bill Checker 3" />
-  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_4.png" width="180" alt="Bill Checker 4" />
-</p>
-
-- **Tech**: Flutter, BLoC, Firebase, Admob/Applovin
-- **Links**: [Test APK](https://drive.google.com/file/d/1_hhJzksC3FqmttSXARail4NJo9ueMtMS/view?usp=sharing)
+- **Links**: [Nakoda Services](https://play.google.com/store/apps/details?id=com.nakoda.customer)
 </details>
 
 ---
 
 ## 👨‍💻 Experience & Career Highlights
 
-**Mobile Software Engineer (Multi-Platform Specialist)** | **SD Cold Logistics & YouShopper, Inc.**
+**Mobile Software Engineer** | **BeInMedia (Nmo AI)** | *July 2024 – Present*
+- Building AI-powered health and fitness applications with **Bluetooth Low Energy (BLE)** integration for real-time device synchronization.
+
+**Senior Mobile Developer** | **SD Cold Logistics & YouShopper, Inc.**
 - Led the architectural redesign of the YouShopper ecosystem, developing enterprise-grade apps for Customers, Sellers, and Delivery personnel.
-- Spearheaded the development of the LBH beauty products application, optimizing performance for high-traffic environments.
-- Managed complex backend migrations, ensuring zero-downtime for the YouShopper Seller platform.
+- Managed complex backend migrations and optimized performance for high-traffic environments.
 
 **Senior Flutter Developer** | **HomyKSA**
-- Developed and deployed a comprehensive home services marketplace (Cleaning, Plumbing, AC), serving the KSA region.
-- Collaborated on deep API integrations to streamline order flows and real-time service tracking.
+- Developed and deployed a comprehensive home services marketplace serving the Saudi Arabia (KSA) region.
 
 ---
 
 ## 📬 Let's Build Something Together
 
-I'm always looking for innovative projects and teams to collaborate with. Whether you have a clear vision or just a rough idea, I can help you bring it to life.
+I'm always looking for innovative projects and teams to collaborate with.
 
 <p align="left">
-  <a href="mailto:ottomandeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:usman243786@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ottomancoder/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://wa.me/message/4DIU6JPIALUGK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://stackoverflow.com/users/15117215"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" /></a>
   <a href="https://www.youtube.com/@OttomanCoder"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
 </p>
 
@@ -236,9 +208,8 @@ I'm always looking for innovative projects and teams to collaborate with. Whethe
 ## 📈 Platform Mastery & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OttomanDeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=OttomanDeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OttomanDeveloper&theme=vue-dark&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OttomanDeveloper&theme=vue-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OttomanDeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" alt="Top Langs" />
 </p>
 
 ---
