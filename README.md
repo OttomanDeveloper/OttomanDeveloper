@@ -30,8 +30,6 @@ My solo-built streaming app reached **600,000+ active users**. I've delivered **
 
 Currently at **BeInMedia**, building AI-powered health apps with **Bluetooth Low Energy** device integration and **Google Gemini AI**.
 
-I use AI tools (Claude, Copilot, Codex) to move faster — but every architecture decision is mine.
-
 ---
 
 ## 🏆 Hero Project: Legend TV
