@@ -11,6 +11,7 @@
   <a href="https://wa.me/message/4DIU6JPIALUGK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://www.youtube.com/@OttomanCoder"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
   <a href="https://stackoverflow.com/users/15117215"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" /></a>
+  <a href="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/resume.pdf"><img src="https://img.shields.io/badge/Download-Resume-FF5733?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
 </p>
 
 <p align="center">
