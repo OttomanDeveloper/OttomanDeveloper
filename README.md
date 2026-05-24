@@ -72,6 +72,9 @@ I build tools that fill the gaps other developers complain about.
 | [**firebase_admin_sdk**](https://pub.dev/packages/firebase_admin_sdk) | Firebase Admin SDK for Dart — Firestore, Auth, FCM, Storage | Authored the initial core. Now transitioned to the official Google Firebase publisher for continued maintenance |
 | [**firebase_cloud_messaging_dart**](https://pub.dev/packages/firebase_cloud_messaging_dart) | Send FCM push notifications directly from Dart — zero backend needed | Active · 17 likes · 371+ downloads |
 | [**charts_flutter_maintained**](https://pub.dev/packages/charts_flutter_maintained) | Community-maintained fork of Google's abandoned charts library | Active · Keeping legacy apps alive |
+| [**tanquery**](https://pub.dev/packages/tanquery) | TanStack Query ported to Dart — automatic caching, stale-while-revalidate, background refetching, mutations, infinite queries. Pure Dart, no Flutter dependency | Active · v0.8.0 |
+| [**tanquery_flutter**](https://pub.dev/packages/tanquery_flutter) | Flutter adapter for tanquery — `QueryBuilder`, `MutationBuilder`, `InfiniteQueryBuilder` widget builders | Active · v0.8.0 |
+| [**tanquery_devtools**](https://pub.dev/packages/tanquery_devtools) | Visual cache inspector overlay for tanquery — real-time query status, mutation log, cache actions | Active · v0.8.0 |
 
 ---
 
