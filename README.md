@@ -260,6 +260,33 @@ Tools           Figma · Postman · Google Cloud · Git · Bitbucket
 
 ---
 
+## 🌐 Web Projects
+
+Projects built with Flutter Web — showcasing cross-platform compatibility, web-optimized performance, and zero-dependency animations.
+
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://img.shields.io/badge/Flutter-Web-02569B?style=flat-square&logo=flutter&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Dart_3.12-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+    <td>
+      <h3>PiggyToken — Crypto Landing Page</h3>
+      <p>A showcase project demonstrating Flutter web capabilities: scroll-triggered reveal animations, glassmorphism nav bar, animated counters, staggered card entrances, FAQ accordion, responsive 3-breakpoint layouts — all built with <b>zero external animation packages</b>. Frame-batched scroll processing, centralized observer pattern, <code>RepaintBoundary</code> isolation, and image precaching for production-grade performance.</p>
+      <p>
+        <b>Stack:</b> Flutter 3.44 · Provider · Google Fonts · flutter_svg<br>
+        <b>Highlights:</b> 9 animated sections · Glassmorphism UI · Active nav tracking · Pulsing hero logo · Animated stat counters
+      </p>
+      <p>
+        <a href="https://ottomandeveloper.github.io/piggyToken/"><img src="https://img.shields.io/badge/Live_Demo-Visit_Site-brightgreen?style=for-the-badge" alt="Live Demo" /></a>
+        <a href="https://github.com/OttomanDeveloper/piggyToken"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📱 More Live Apps
 
 | App | Category | Link |
