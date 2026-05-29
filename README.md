@@ -120,12 +120,12 @@ Tools           Figma · Postman · Google Cloud · Git · Bitbucket
 </details>
 
 <details>
-<summary><b>📺 UDownload — Advanced YouTube Suite</b></summary>
+<summary><b>📺 UDownload — Open-Source YouTube Browser & Downloader</b></summary>
 <br>
 
-**Problem:** Creating a seamless video/audio downloader that handles complex extraction from multiple platforms without UI jank.
+**Problem:** Build a full YouTube client + downloader — search, channels, playlists, comments, trending, and downloads — with no official API key and no backend.
 
-**Solution:** Custom extraction engine built in Dart/PHP, optimized with **Dart Isolates** for concurrent background downloads. Dual-theme UI.
+**Solution:** Open-source Flutter app powered by my own [`newpipeextractor_dart`](https://pub.dev/packages/newpipeextractor_dart) plugin (NewPipe Extractor). Native ExoPlayer playback, stateless token-based infinite pagination across every feed, in-app reCAPTCHA handling, keep-screen-awake, and a modern dual-theme UI. **Open-sourced under GPL-3.0.**
 
 <p align="center">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_1.png" width="180">
@@ -134,8 +134,8 @@ Tools           Figma · Postman · Google Cloud · Git · Bitbucket
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/u_download_4.png" width="180" />
 </p>
 
-**Stack:** Flutter · PHP API · BLoC · OneSignal
-**Links:** [Test APK](https://drive.google.com/file/d/1fIHw9DBSqHHXHGl_W4c0fgvza3G3CoOV/view?usp=sharing)
+**Stack:** Flutter · BLoC/Cubit · newpipeextractor_dart (NewPipe Extractor) · Native ExoPlayer · OneSignal
+**Links:** [GitHub](https://github.com/OttomanDeveloper/u_downloader) · [Test APK](https://drive.google.com/file/d/1fIHw9DBSqHHXHGl_W4c0fgvza3G3CoOV/view?usp=sharing)
 
 </details>
 
