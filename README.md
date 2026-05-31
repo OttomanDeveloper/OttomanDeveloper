@@ -272,6 +272,24 @@ Projects built with Flutter Web — showcasing cross-platform compatibility, web
       <img src="https://img.shields.io/badge/Dart_3.12-0175C2?style=flat-square&logo=dart&logoColor=white" />
     </td>
     <td>
+      <h3>Chronos — A Journey Through the Universe</h3>
+      <p>A scroll-driven, single-page trip through the entire history of the cosmos, from the Big Bang to today, across <b>nine hand-painted eras</b> and a final developer reveal. Every scene is drawn in pure Dart with <b>30+ <code>CustomPainter</code>s</b> and animated from a single <code>Ticker</code> — no GIFs, Lottie, or image assets. Only the on-screen era subscribes to per-frame updates (visibility-gated via <code>EraScope</code>), so dozens of animated scenes hold 60fps. Scroll position is the timeline, with conic-section comet orbits, math-driven creatures, and full mobile/tablet/desktop responsiveness.</p>
+      <p>
+        <b>Stack:</b> Flutter 3.44 · Provider · Google Fonts · url_launcher<br>
+        <b>Highlights:</b> 9 custom-painted eras · Scroll-as-timeline · Drag/tap/hover interactions · Single-ticker 60fps · Zero image assets · Fully responsive
+      </p>
+      <p>
+        <a href="https://ottomandeveloper.github.io/andro_meda/"><img src="https://img.shields.io/badge/Live_Demo-Visit_Site-brightgreen?style=for-the-badge" alt="Live Demo" /></a>
+        <a href="https://github.com/OttomanDeveloper/andro_meda"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
+      <img src="https://img.shields.io/badge/Flutter-Web-02569B?style=flat-square&logo=flutter&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Dart_3.12-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+    <td>
       <h3>PiggyToken — Crypto Landing Page</h3>
       <p>A showcase project demonstrating Flutter web capabilities: scroll-triggered reveal animations, glassmorphism nav bar, animated counters, staggered card entrances, FAQ accordion, responsive 3-breakpoint layouts — all built with <b>zero external animation packages</b>. Frame-batched scroll processing, centralized observer pattern, <code>RepaintBoundary</code> isolation, and image precaching for production-grade performance.</p>
       <p>
