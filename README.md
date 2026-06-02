@@ -9,15 +9,21 @@
   <a href="https://www.linkedin.com/in/ottomancoder/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ottomandeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/message/4DIU6JPIALUGK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://ottomancoder.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://www.youtube.com/@OttomanCoder"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
   <a href="https://stackoverflow.com/users/15117215"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" /></a>
   <a href="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/resume.pdf"><img src="https://img.shields.io/badge/Download-Resume-FF5733?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
 </p>
 
 <p align="center">
+  <a href="https://ottomandeveloper.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ottomandeveloper.github.io%2Fportfolio-d4a558?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Apps%20Shipped-50+-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Users%20Reached-600K+-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-9%20pub.dev%20packages-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Platforms-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-purple?style=flat-square" />
 </p>
 
@@ -29,7 +35,9 @@ I'm a **Senior Mobile App Developer** with 5+ years of experience building produ
 
 My solo-built streaming app reached **600,000+ active users**. I've delivered **50+ production apps** for clients across 6 countries. I develop and maintain open-source packages that fill critical gaps in the Flutter/Dart ecosystem — one of which now lives under the official Google Firebase publisher.
 
-Currently at **BeInMedia**, building AI-powered health apps with **Bluetooth Low Energy** device integration and **Google Gemini AI**.
+Currently at **BeInMedia (Nmo AI)**, building an AI-powered fitness app with **Bluetooth Low Energy** health-device sync and **Google Gemini AI** coaching.
+
+📌 **Full portfolio with in-depth case studies:** [ottomandeveloper.github.io/portfolio](https://ottomandeveloper.github.io/portfolio/)
 
 ---
 
@@ -103,19 +111,39 @@ Tools           Figma · Postman · Google Cloud · Git · Bitbucket
 <summary><b>🧬 LifeLink — Wellness & Crisis Intervention</b></summary>
 <br>
 
-**Problem:** Build a crisis-intervention tool that tracks sensitive health metrics (sleep, stress, mood) without compromising privacy or draining battery.
+**Problem:** Give people at risk — and those supporting them — one calm, always-available place that pairs real crisis resources with the daily self-tracking that surfaces warning signs early.
 
-**Solution:** Cross-platform app with **Gemini AI** for real-time empathetic support and **Dart Isolates** for silent background tracking. One of the first Flutter apps to ship Gemini AI in a live consumer health context.
+**Solution:** A Canada-focused crisis-support app that combines a **province-aware directory of crisis lines** (988, Hope for Wellness, BC networks) with daily sleep / diet / stressor / journal tracking visualised in charts, plus **AI-generated supportive poetry via Google Gemini Pro** — guard-railed to fail safe so a vulnerable user never sees a harmful response. Stays usable offline via HydratedBloc.
 
 <p align="center">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_13.png" width="180">
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_11.png" width="180" />
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_9.png" width="180" />
-  <img src="https://github.com/ottomancoder/life_link_resources/blob/main/screenshot_7.png" width="180" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/life_link_1.png" width="180">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/life_link_2.png" width="180" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/life_link_3.png" width="180" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/life_link_4.png" width="180" />
 </p>
 
-**Stack:** Flutter · BLoC · Gemini AI · Firebase · Dart Isolates
+**Stack:** Flutter · BLoC · Google Gemini Pro · Firebase · fl_chart · GoRouter
 **Links:** [Play Store](https://play.google.com/store/apps/details?id=com.helper.lifelink) · [Test APK](https://drive.google.com/file/d/1O90huzEV80F3Gvblv62vAG4DNCTG4jzc/view?usp=sharing)
+
+</details>
+
+<details>
+<summary><b>🍺 AlcoPass — Connected Breathalyzer Station (BLE Hardware)</b></summary>
+<br>
+
+**Problem:** Turn a physical breathalyzer — the **AlcoPass C1** — into a self-test station for venues: pair over Bluetooth, walk the user through a real breath test, and produce a blood-alcohol reading you can actually trust before they decide to drive.
+
+**Solution:** Built around the C1 device over `universal_ble` — filtering so only AlcoPass hardware ever pairs, driving the **warm-up → blow → analyze** state machine, and parsing the C1's raw 16-byte frames into **g/L of blood and mg/L of exhaled air** against the legal limit. The estimate is refined by age, weight, sex, licence class and time since the last drink; every blow logs to Firestore, and the UI is localised in **5 languages** (FR / EN / DE / ES / IT).
+
+<p align="center">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/alcopass_1.png" width="180">
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/alcopass_2.png" width="180" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/alcopass_3.png" width="180" />
+  <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/alcopass_4.png" width="180" />
+</p>
+
+**Stack:** Flutter · BLoC · universal_ble (AlcoPass C1) · Firebase · easy_localization
+**Client:** AlcoPass · France
 
 </details>
 
@@ -183,9 +211,9 @@ Tools           Figma · Postman · Google Cloud · Git · Bitbucket
 <summary><b>📥 Status Saver & Multi-Downloader</b></summary>
 <br>
 
-**Problem:** High-volume file I/O operations across 10+ social platform extraction methods without blocking the UI.
+**Problem:** Save WhatsApp & WhatsApp Business statuses and grab videos by link — while staying Play-Store compliant on modern Android's scoped storage.
 
-**Solution:** Multi-downloader using **Dart Isolates** for concurrent background processing with clean, non-intrusive ad integration.
+**Solution:** Reads statuses through Android's **Storage Access Framework** (a native Kotlin SAF handler) for Android 11+ compliance, plus a paste-URL video downloader; thumbnails are generated off the UI thread with **Dart Isolates**.
 
 <p align="center">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_1.png" width="180" alt="Status Saver 1">
@@ -194,7 +222,7 @@ Tools           Figma · Postman · Google Cloud · Git · Bitbucket
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/status_getter_4.png" width="180" alt="Status Saver 4" />
 </p>
 
-**Stack:** Flutter · BLoC · Dart Isolates · Firebase
+**Stack:** Flutter · BLoC · Android SAF (native Kotlin) · Dart Isolates · Firebase
 **Links:** [Releases](https://github.com/OttomanDeveloper/status_getter/releases)
 
 </details>
@@ -203,9 +231,9 @@ Tools           Figma · Postman · Google Cloud · Git · Bitbucket
 <summary><b>🧘 ICare — Meditation & Inner Calm</b></summary>
 <br>
 
-**Problem:** Building a secure wellness app that balances multi-media content with biometric privacy.
+**Problem:** Build a private, judgement-free wellness space for a psychologist's clients — where no one can see someone's inner state, not even from their unlocked phone.
 
-**Solution:** Meditation suite with Firebase Cloud Functions, fingerprint authentication, and optimized audio streaming.
+**Solution:** A self-care suite — meditation music, a guided Breathe exercise, an emoji mood tracker, diary, hobby timer and voice memos. Privacy-first: a "don't use your real name" signup and a **fingerprint/biometric lock** (`local_auth`) at the door. Each feature is its own GetX binding, loaded only when opened.
 
 <p align="center">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_1.png" width="180" alt="ICare 1">
@@ -214,7 +242,7 @@ Tools           Figma · Postman · Google Cloud · Git · Bitbucket
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/icare_4.png" width="180" alt="ICare 4" />
 </p>
 
-**Stack:** Flutter · GetX · Firebase (Storage/Functions) · Node.js
+**Stack:** Flutter · GetX · Firebase (Auth/Firestore) · local_auth · just_audio + flutter_sound
 **Links:** [Test APK](https://drive.google.com/file/d/1Hd0F4yJBp-DMoEE69OYO1qhZYQEPKp6-/view?usp=sharing)
 
 </details>
@@ -243,9 +271,9 @@ Tools           Figma · Postman · Google Cloud · Git · Bitbucket
 <summary><b>🧾 Bill Checker — Utility Management</b></summary>
 <br>
 
-**Problem:** Aggregating utility data from multiple government sources (Electric, Water, Gas) into a single app.
+**Problem:** Put every Pakistani utility bill-inquiry portal — electricity (WAPDA), gas, phone and water — behind one app so people stop hunting for each provider's website.
 
-**Solution:** Dual-theme utility checker with BLoC state management and clean, premium UI.
+**Solution:** Tabs for every regional provider (LESCO, FESCO, SSGC, SNGPL, KE…); tapping one opens that provider's official bill-inquiry portal in an in-app **WebView**. Dual-theme, BLoC state management.
 
 <p align="center">
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_1.png" width="180" alt="Bill Checker 1">
@@ -254,7 +282,7 @@ Tools           Figma · Postman · Google Cloud · Git · Bitbucket
   <img src="https://github.com/OttomanDeveloper/OttomanDeveloper/blob/main/Assets/bill_checker_4.png" width="180" alt="Bill Checker 4" />
 </p>
 
-**Stack:** Flutter · BLoC · Firebase · AdMob/AppLovin
+**Stack:** Flutter · BLoC · webview_flutter · Firebase · AdMob/AppLovin
 **Links:** [Test APK](https://drive.google.com/file/d/1_hhJzksC3FqmttSXARail4NJo9ueMtMS/view?usp=sharing)
 
 </details>
